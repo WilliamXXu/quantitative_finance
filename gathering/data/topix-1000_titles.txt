@@ -1,0 +1,996 @@
+ABC-Mart Inc
+Acom Co Ltd
+Adastria Holdings Co Ltd
+Adeka Corp
+Advantest Corp.
+Aeon Co., Ltd.
+Aeon Delight Co Ltd
+Aeon Financial Service Co Ltd
+Aeon Mall Co Ltd
+AGC Inc
+Ai Holdings Corp
+Aica Kogyo
+Aichi Financial Group Inc
+Aida Engineering Ltd
+Aiful Corp
+Ain Pharmaciez Inc
+Air Water Inc
+AirTrip Corp
+Aisin Seiki Ltd
+Ajinomoto Co., Inc.
+Akatsuki Shoji Co Ltd
+Alconix Corp
+Alfresa Holdings Corp
+Alpen Co Ltd
+Alps Electric Co., Ltd.
+Amada Co., Ltd.
+Amano Corp
+ANA Holdings Inc
+Anicom Holdings Inc
+Anritsu Corp
+Aoki Holdings Inc
+Aoyama Trading Co Ltd
+Aozora Bank, Ltd.
+Arata Corp
+Arcland Sakamoto Co Ltd
+Arcland Service Co Ltd
+Arcs Co Ltd
+Ariake Japan Co Ltd
+Arisawa Mfg Co Ltd
+ARTERIA Networks Corporation
+Aruhi Corp
+As One Corp
+Asahi Diamond Ind Co Ltd
+Asahi Group Holdings, Ltd.
+Asahi Holdings Inc
+Asahi Intecc Co Ltd
+Asahi Kasei Corp.
+Asanuma Corp
+Asics Corp
+Askul Corp
+Astellas Pharma Inc.
+Atrae Inc
+Autobacs Seven Co Ltd
+Avant Corp
+Avex Group Holdings Inc
+Awa Bank Ltd
+Azbil Corp
+Bandai Namco Holdings Inc
+Bank of Nagoya Ltd
+BayCurrent Consulting Inc
+Beenos Inc
+Belc Co Ltd
+BELLSYSTEM24 Holdings Inc
+Belluna Co Ltd
+Benefit One Inc
+Benesse Holdings
+BIC Camera Inc
+Biprogy Inc
+BML Inc
+Bridgestone Corp.
+Broadleaf Co Ltd
+Brother Industries Ltd
+Bunka Shutter Co Ltd
+Calbee Inc
+Canon Inc
+Canon Marketing Japan Inc
+Capcom Co Ltd
+Casio Computer Co., Ltd.
+Cawachi Ltd
+Central Glass Co Ltd
+Central Japan Railway Co.
+Central Security Patrols Co Ltd
+Century Tokyo Leasing Corp
+Change Inc
+Chiba Bank Ltd
+Chubu Electric Power Co., Inc.
+Chudenko Corp
+Chugai Pharmaceutical Co., Ltd.
+Chugin Financial Group Inc
+Chugoku Electric Power Co Inc
+Chugoku Marine Paints Ltd
+Citizen Holdings Co., Ltd.
+CKD Corp
+Coca-Cola West Co Ltd
+Colopl Inc
+Colowide Co Ltd
+Computer Engineering & Consulting Ltd
+Comsys Holdings Corp.
+Comture Corp
+Concordia Financial Group Ltd
+Cosmo Energy Holdings Co Ltd
+Cosmos Pharmaceutical Corp
+Create Restaurants Holdings Inc
+Create SD Holdings Co Ltd
+Credit Saison Co., Ltd.
+Curves Holdings Co Ltd
+CyberAgent Inc
+Cybozu Inc
+Dai Nippon Printing Co., Ltd.
+Dai-ichi Life Holdings Inc
+Daicel Corp
+Daido Steel Co Ltd
+Daifuku Co Ltd
+Daihen Corp
+Daiho Corp
+Daiichi Kigenso Kagaku Kogyo Co Ltd
+Daiichi Sankyo Co., Ltd.
+Daiichikosho Co Ltd
+Daiki Aluminium Industry Co Ltd
+Daikin Industries, Ltd.
+Daikokutenbussan Co Ltd
+Dainippon Screen Mfg. Co., Ltd.
+Daio Paper Corp
+Daiseki Co Ltd
+Daishi Hokuetsu Financial Group Inc
+Daishinku Corp
+Daito Pharmaceutical Co Ltd
+Daito Trust Construction
+Daiwa House Industry Co., Ltd.
+Daiwa Securities Group Inc.
+Daiwabo Holdings Co Ltd
+DCM Holdings Co Ltd
+DeNA Co Ltd
+Denka Co Ltd
+Denso Corp.
+Dentsu Inc.
+Descente Ltd
+Dexerials Corp
+DIC Corp
+Digital Arts Inc
+Digital Garage Inc
+Dip Corp
+Direct Marketing Mix Inc
+Disco Corp
+Dmg Mori Seiki Co Ltd
+Doutor Nichires Holdings Co Ltd
+DOWA Holdings Co., Ltd.
+DTS Corp
+Duskin Co Ltd
+Dydo Drinco Inc
+Earth Chemical Co Ltd
+East Japan Railway Co.
+Ebara Corp.
+Edion Corp
+eGuarantee Inc
+Eiken Chemical Co Ltd
+Eisai Co., Ltd.
+Eizo Corp
+Elan Corp
+Elecom Co Ltd
+Electric Power Development Ltd
+En-Japan Inc
+Eneos Holdings Inc
+Enplas Corp
+eREX Co Ltd
+Es-con Japan Ltd
+Espec Corp
+Euglena Co Ltd
+Exedy Corp
+Ezaki Glico Co Ltd
+F.C.C. Co Ltd
+Fancl Corp
+Fanuc Corp.
+Fast Retailing Co., Ltd.
+Financial Products Group Co Ltd
+Food & Life Companies Ltd
+FP Corp
+Fuji Co Ltd
+Fuji Electric Co., Ltd.
+Fuji Kyuko Co Ltd
+Fuji Machine Mfg. Co Ltd
+Fuji Media Holdings Inc
+Fuji Oil Co Ltd
+Fuji Seal International Inc
+Fuji Soft Inc
+Fujicco Co Ltd
+Fujifilm Holdings Corp.
+Fujikura Ltd.
+Fujimi Inc
+Fujitec Co Ltd
+Fujitsu Ltd.
+Fujitsu General Ltd
+Fukui Computer Holdings Inc
+Fukuoka Financial Group, Inc.
+Fukuyama Transporting Co Ltd
+Fullcast Holdings Co Ltd
+Funai Soken Holdings Inc
+Furukawa Electric Co., Ltd.
+Fuso Chemical Co Ltd
+Future Architect Inc
+Fuyo General Lease Co Ltd
+G-7 Holdings Inc
+Gakken Holdings Co Ltd
+Genky Drugstores Co Ltd
+Geo Holdings Corp
+Giftee Inc
+Giken Ltd
+Globeride Inc
+Glory Ltd
+Gmo Internet Inc
+GMO Payment Gateway Inc
+Goldwin Inc
+Gree Inc
+GS Yuasa Corp.
+Gumi Inc
+GungHo Online Entertainment Inc
+Gunze Ltd
+H.I.S. Co Ltd
+H2O Retailing Corp
+Hachijuni Bank Ltd
+Hakuhodo DY Holdings Inc
+Hakuto Co Ltd
+Hamamatsu Photonics KK
+Hankyu Hanshin Holdings Inc
+Hanwa Co Ltd
+Haseko Corp
+Hazama Ando Corp
+Heiwa Corp
+Heiwa Real Estate Co., Ltd.
+Heiwado Co Ltd
+Hiday Hidaka Corp
+Hikari Tsushin Inc
+Hino Motors, Ltd.
+Hioki EE Corp
+Hirata Corp
+Hirogin Holdings Inc
+Hirose Electric Co Ltd
+Hisamitsu Pharmaceutical Inc
+Hitachi Ltd
+Hitachi Construction Machinery Co
+Hitachi Maxell Ltd
+Hitachi Transport Sys Ltd
+Hitachi Zosen Corp.
+Hogy Medical Co Ltd
+Hokkaido Electric Power Co Inc
+Hokkoku Financial Holdings Inc
+Hokuetsu Kishu Paper Co., Ltd.
+Hokuhoku Financial Group Inc
+Hokuriku Electric Power Co
+Hokuto Corp
+Honda Motor Co Ltd
+Horiba Ltd
+Hoshizaki Electric Co Ltd
+Hosiden Corp
+Hosokawa Micron Corp
+House Foods Group Inc
+Hoya Cor
+Hu Group Holdings Ord Shs
+Hulic Co Ltd
+Hyakugo Bank Ltd
+Ibiden Co Ltd
+Ichibanya Co Ltd
+Ichigo Inc
+IDEC Corp
+Idemitsu Kosan Co Ltd
+IDOM Inc
+IHI Corp.
+Iida Group Holdings Co Ltd
+Iino Kaiun Kaisha Ltd
+Inaba Denki Sangyo Co Ltd
+Inabata & Co Ltd
+Information Services International-Dentsu Ltd
+Infocom Corp
+Infomart Corp
+Infroneer Holdings Inc
+Inpex Corp.
+Insource Co Ltd
+Intage Holdings Inc
+Internet Initiative Japan Inc
+IR Japan Holdings Ltd
+Iriso Electronics Co Ltd
+Isetan Mitsukoshi Holdings Ltd.
+Ishihara Sangyo Kaisha Ltd
+Istyle Inc
+Isuzu Motors, Ltd.
+Ito En Ltd
+Itochu Corp.
+Itochu Enex Co Ltd
+Itochu Techno Solutions
+Itoham Yonekyu Holdings Inc
+Iwatani Corp
+Izumi Co Ltd
+J.Front Retailing Co., Ltd.
+Jac Recruitment Co Ltd
+JACCS Co Ltd
+Jafco Co Ltd
+Japan Airlines Co Ltd
+Japan Airport Terminal Co Ltd
+Japan Aviation Electronics Ltd
+Japan Communications Inc
+Japan Display Inc
+Japan Elevator Service Holdings Co Ltd
+Japan Exchange Group Inc
+Japan Lifeline Co Ltd
+Japan Material Co Ltd
+Japan Petroleum Exploration Co Ltd
+Japan Post Bank Co Ltd
+Japan Post Holdings Co Ltd
+Japan Post Insurance Co Ltd
+Japan Securities Finance Co Ltd
+Japan Steel Works Ltd
+Japan Tobacco Inc
+Japan Wool Textile Co Ltd
+JCR Pharmaceuticals Co Ltd
+JCU Corp
+JEOL Ltd
+JFE Holdings, Inc.
+JGC Corp.
+JIN Co Ltd
+JM Holdings Co Ltd
+Jmdc Inc
+Joshin Denki Co Ltd
+Joyful Honda Co Ltd
+Jsr Cor
+JTEKT Corp.
+Juroku Financial Group Inc
+Justsystems Corp
+JVC Kenwood Corp
+K'S Holdings Corp
+Kadokawa Dwango Corp
+Kaga Electronics Co Ltd
+Kagome Co Ltd
+Kajima Corp.
+KakakuCom Inc
+Kaken Pharmaceutical Co Ltd
+Kameda Seika Co Ltd
+Kamigumi Co Ltd
+Kanamoto Co Ltd
+Kandenko Co Ltd
+Kaneka Corp
+Kanematsu Corp
+Kansai Electric Power Co Inc
+Kansai Paint Co Ltd
+Kanto Denka Kogyo Co Ltd
+Kao Corp.
+Kappa Create Holdings Co Ltd
+Katitas Co Ltd
+Kato Sangyo Co Ltd
+Kawasaki Heavy Industries, Ltd.
+Kawasaki Kisen Kaisha, Ltd.
+KDDI Corp.
+KeePer Technical Laboratory Co Ltd
+Keihan Electric Railway Co Ltd
+Keihanshin Building Co Ltd
+Keikyu Corp
+Keio Corp.
+Keisei Electric Railway Co., Ltd.
+Keiwa Inc
+Keiyo Bank Ltd
+Kewpie Corp
+Key Coffee Inc
+Keyence
+KH Neochem Co Ltd
+Ki-Star Real Estate Co Ltd
+Kikkoman Corp.
+Kinden Corp
+Kintetsu Corp
+Kirin Holdings Co., Ltd.
+Kisoji Co Ltd
+Kissei Pharmaceutical Co Ltd
+Kitz Corp
+Kiyo Bank Ltd
+Koa Corp
+Kobayashi Pharmaceutical Co Ltd
+Kobe Bussan Co Ltd
+Kobe Steel, Ltd.
+Koei Tecmo Holdings Co Ltd
+Kohnan Shoji Co Ltd
+Koito Mfg Co Ltd
+Kokuyo Co Ltd
+Komatsu Ltd.
+Komeda Holdings Co Ltd
+Komeri Co Ltd
+Konami Corp.
+Konica Minolta, Inc.
+Kose Corp
+Koshidaka Holdings Co Ltd
+Kotobuki Spirits Co Ltd
+Kubota Corp.
+Kumagai Gumi
+Kumiai Chemical Industry Co Ltd
+Kura Corp
+Kuraray Co., Ltd.
+Kureha Corp
+Kurita Water Industries Ltd
+Kusuri No Aoki Holdings Co Ltd
+KYB Corp
+Kyocera Corp.
+Kyoei Steel Ltd
+Kyokuto Kaihatsu Kogyo Co Ltd
+Kyorin Holdings Inc
+Kyoritsu Maintenance Co Ltd
+Kyowa Exeo Corp
+Kyowa Kirin Co Ltd
+Kyudenko Corp
+Kyushu Electric Power Co Inc
+Kyushu Financial Group Inc
+Kyushu Railway Co
+Lasertec Corp
+Lawson Inc
+Leopalace21 Corp
+Life Corp
+Link and Motivation Inc
+Lintec Corp
+Lion Corp
+Litalico Inc
+Lixil Group
+M&A Capital Partners Co Ltd
+M-up Inc
+M3 Inc
+Mabuchi Motor Ltd
+Macnica Fuji Electronics Holdings Inc
+Macromill Inc
+Maeda Kosen Co Ltd
+Makino Milling Machine Co Ltd
+Makita
+Management Solutions Co Ltd
+Mandom Corp
+Mani Inc
+Marubeni Corp.
+Maruha Nichiro Corp
+Marui Group Co., Ltd.
+Maruichi Steel Tube Ltd
+Maruka Furusato Corp
+Maruwa Co Ltd
+Maruwa Unyu Kikan Co Ltd
+Matsuda Sangyo Co Ltd
+Matsui Securities Co., Ltd.
+MatsukiyoCocokara & Co
+Mazda Motor Corp
+Mebuki Financial Group Inc
+MEC Co Ltd
+Medical Data Vision Co Ltd
+Medipal Holdings Corp
+Medpeer Inc
+MegaChips Corp
+Megmilk Snow Brand Co Ltd
+Meidensha Corp.
+Meiji Holdings Co., Ltd.
+Meiko Electronics Co Ltd
+Meitec Corp
+Menicon Co Ltd
+Mercari Inc
+Metawater Co Ltd
+Micronics Japan Co Ltd
+Midac Co Ltd
+Milbon Co Ltd
+Mimasu Semiconductor Industry Co Ltd
+Minebea Mitsumi Inc
+Mirait Holdings Corp
+Miroku Jyoho Service Co Ltd
+Misumi Group Inc
+Mitsubishi Chemical Holdings Corp
+Mitsubishi Corp.
+Mitsubishi Electric Corp
+Mitsubishi Estate Co Ltd
+Mitsubishi Gas Chemical Co Inc
+Mitsubishi Heavy Industries, Ltd.
+Mitsubishi Logistics Corp.
+Mitsubishi Materials Corp.
+Mitsubishi Motors Corp.
+Mitsubishi Nichiyu Forklift Co Ltd
+Mitsubishi Pencil Co Ltd
+Mitsubishi Research Institute Inc
+Mitsubishi Shokuhin Co Ltd
+Mitsubishi UFJ Financial Group Inc
+Mitsubishi Ufj Lease Fin Ltd
+Mitsuboshi Belting Ltd
+Mitsui & Co., Ltd.
+Mitsui Chemicals, Inc.
+Mitsui Engineering & Shipbuilding
+Mitsui Fudosan Co., Ltd.
+Mitsui High-tec Inc
+Mitsui Matsushima Co Ltd
+Mitsui Mining and Smelting Co.
+Mitsui O.S.K. Lines, Ltd.
+Mitsui Soko Holdings Co Ltd
+Miura Co Ltd
+Mixi Inc
+Mizuho Financial Group Inc
+Mizuho Leasing Co Ltd
+Mizuno Corp
+Mochida Pharmaceutical
+Modec Inc
+Monex Group Inc
+Money Forward Inc
+Monogatari Corp
+MonotaRO
+Morinaga & Co Ltd
+Morinaga Milk Industry Co Ltd
+Mos Food Services Inc
+MS&AD Insurance Group Holdings
+Murata Mfg Co
+Musashi Seimitsu Industry Co Ltd
+Nabtesco Corp
+Nachi-Fujikoshi Corp
+Nagase & Co Ltd
+Nagawa Co Ltd
+Nagoya Railroad Co Ltd
+Namura Shipbuild Co Ltd
+Nankai Electric Railway Co Ltd
+Nanto Bank Ltd
+NEC Corp.
+NEC Networks & System Integration Corp
+Net One Systems Co Ltd
+Net Protections Holdings Inc
+Nexon Co Ltd
+Nextage Co Ltd
+NGK Insulators, Ltd.
+Ngk Spark Plug Co Ltd
+NH Foods Ltd
+Nhk Spring Co Ltd
+Nichias Corp
+Nichicon Corp
+Nichiha Corp
+Nichirei Corp.
+Nidec Corp
+Nifco Inc
+Nihon Kohden Corp
+Nihon M&A Center Inc
+Nihon Parkerizing
+Nikkiso Co Ltd
+Nikkon Holdings Co Ltd
+Nikon Corp.
+Nintendo Co Ltd
+Nippn Corp
+Nippon Carbon Co Ltd
+Nippon Ceramic Co Ltd
+Nippon Chemi-Con Corp
+Nippon Denko Co Ltd
+Nippon Electric Glass Co., Ltd.
+Nippon Express Co., Ltd.
+Nippon Gas Co Ltd
+Nippon Kanzai Co Ltd
+Nippon Kayaku Co., Ltd.
+Nippon Koei
+Nippon Light Metal Holdings Co.
+Nippon Paint Holdings Co Ltd
+Nippon Paper Industries Co., Ltd.
+Nippon Parking Development Co Ltd
+Nippon Pillar Packing Co Ltd
+Nippon Road
+Nippon Sheet Glass Co., Ltd.
+Nippon Shinyaku Co Ltd
+Nippon Shokubai Co Ltd
+Nippon Soda Co., Ltd.
+Nippon Steel Corp
+Nippon Steel Trading
+Nippon Telegraph & Telephone Corp
+Nippon Television Holdings Inc
+Nippon Thompson Co Ltd
+Nippon Valqua Industries Ltd
+Nippon Yakin Kogyo Co Ltd
+Nippon Yusen K.K
+Nipro Corp
+Nishi-Nippon Railroad Co Ltd
+Nishi-Nippon Financial Holdings Inc
+Nishimatsu Const Co Ltd
+Nishimatsuya Chain Co Ltd
+Nishio Rent All Co Ltd
+Nissan Chemical Industries, Ltd.
+Nissan Motor Co., Ltd.
+Nissei ASB Machine Co Ltd
+Nissha Printing Co Ltd
+Nisshin OilliO Group Ltd
+Nisshin Seifun Group Inc.
+Nisshinbo Holdings Inc.
+Nissin Electric Co Ltd
+Nissin Foods Holdings Co Ltd
+Nissui Corp
+Nitori Holdings Co Ltd
+Nitta Corp
+Nittetsu Mining
+Nitto Boseki Co., Ltd.
+Nitto Denko Co
+Nitto Kogyo Corp
+Noevir Holdings Co Ltd
+NOF Corp
+Nohmi Bosai Ltd
+Nojima Corp
+NOK Corp
+Nomura Holdings Inc
+Nomura Co Ltd
+Nomura Real Estate Holding Inc
+Nomura Research Institute Ltd
+Noritake Co Ltd
+Noritsu Koki Co Ltd
+Noritz Corp
+North Pacific Bank Ltd
+Ns Solutions Corp
+NSD Co Ltd
+NSK Ltd.
+NTN Corp.
+NTT Data Corp.
+Obayashi Corp.
+Obic Business Consultants Co Ltd
+Obic Co Ltd
+Odakyu Electric Railway Co., Ltd.
+Ogaki Kyoritsu Bank Ltd
+Ohsho Food Service Corp
+Oisix Inc
+Oji Holdings Corp.
+Okamura Corp
+Okasan Securities Group Inc
+Oki Electric Industry Co., Ltd.
+Okinawa Electric Power Co Inc
+Okinawa financial Group Inc
+Okuma Corp.
+Okumura Corp
+Olympus Corp.
+Omron Cor
+Ono Pharmaceutical Ltd
+Onward Holdings Co Ltd
+Open Door Inc
+Open House Co Ltd
+Open Up Group Inc
+Optex Co Ltd
+Optorun Co Ltd
+Oracle Corp Japan
+Organo Corp
+Orient Corp
+Oriental Land Co Ltd
+Oriental Shiraishi Corp
+Orix T
+Osaka Gas Co., Ltd.
+Osaka Organic Chemical Industry Ltd
+Osaka Soda Co Ltd
+Osaka Titanium Tech Co Ltd
+OSG Corp
+Otsuka Corp
+Otsuka Holdings Ltd
+Outsourcing Inc
+Pacific Industrial Co Ltd
+Pacific Metals Co., Ltd.
+Pal
+Paltac Corp
+Pan Pacific International Holdings Corp
+Panasonic Corp
+Paramount Bed Holdings Co Ltd
+Park24 Co Ltd
+Pasona Group Inc
+Penta-Ocean Const Co Ltd
+PeptiDream Inc
+Persol Holdings Co Ltd
+Pharma Foods International Co Ltd
+PHC Holdings Corp
+Pigeon Corp
+Pilot Corp
+Piolax Inc
+Pola Orbis Holdings Inc
+Poletowin Pitcrew Holdings Inc
+Premium Group Co Ltd
+Press Kogyo Co Ltd
+Pressance Corp
+Prestige International Inc
+Prima Meat Packers Ltd
+Qol Co Ltd
+Raccoon Co Ltd
+Raito Kogyo
+Raksul Inc
+Rakus Co Ltd
+Rakuten Inc
+Recruit Holdings Co Ltd
+Relia Inc
+Relo Holdings Inc
+Renesas Electronics Corp
+Rengo Co Ltd
+Renova Inc
+Resona Holdings, Inc.
+Resonac Holdings Corp
+Resorttrust Inc
+Retail Partners Co Ltd
+Ricoh Co., Ltd.
+Ricoh Leasing Co Ltd
+Riken Keiki Co Ltd
+Ringer Hut Co Ltd
+Rinnai Corp
+Riso Kagaku Corp
+Riso Kyoiku Co Ltd
+Rock Field Co Ltd
+Rohm Ltd
+Rohto Pharmaceutical
+Roland Corp
+Rorze Corp
+Round One Corp
+Royal Holdings Co Ltd
+RS Technologies Co Ltd
+Ryobi Ltd
+Ryohin Keikaku Ltd
+Ryoyo Electro Corp
+S Foods Inc
+S-Pool Inc
+Sagami Chain Co Ltd
+Saizeriya Co Ltd
+Sakai Moving Service Co Ltd
+Sakata Seed Corp
+Samty Co Ltd
+San-A Co Ltd
+San-Ai Oil Co Ltd
+San-in Godo Bank Ltd
+Sangetsu Co Ltd
+Sanken Electric Co Ltd
+Sanki Engineering
+Sankyo Co Ltd
+Sankyu Inc
+Sanoh Industrial Co Ltd
+Sanrio Co Ltd
+Sansan Inc
+Santen Pharmaceutical Co Ltd
+Sanwa Holdings Corp
+Sanyo Chemical Industries Ltd
+Sanyo Denki Co Ltd
+Sanyo Special Steel Co Ltd
+Sapporo Holdings Ltd.
+Sato Holdings Corp
+Sawai Group Holdings Co Ltd
+SBI Holdings Inc
+SBS Holdings Inc
+Scroll Corp
+SCSK Corp
+Secom Co., Ltd.
+Sega Sammy Holdings
+Seibu Holdings Inc
+Seiko Epson Cor
+Seiko Holdings Corp
+Seino Holdings Co Ltd
+Seiren Co Ltd
+Sekisui Chemical Co Ltd
+Sekisui House, Ltd.
+Senko Co Ltd
+Senshu Ikeda Holdings Inc
+Seven & i Holdings Co., Ltd.
+Seven Bank Ltd
+SG Holdings Co Ltd
+Sharp Corp
+Shibaura Machine Co Ltd
+Shibaura Mechatronics Corp
+Shift Inc
+Shiga Bank Ltd
+Shikoku Electric Power Co Inc
+Shima Seiki Mfg. Ltd
+Shimadzu Corp
+Shimamura Co Ltd
+Shimano Inc
+Shimizu Corp.
+Shin-Etsu Polymer Co Ltd
+Shin Nippon Biomedical Laboratories Ltd
+Shin-Etsu Chemical Co., Ltd.
+Shindengen Electric Manufacturing Co Ltd
+Shinko Electric Ind Co Ltd
+Shinmaywa Industries Ltd
+Shinsei Bank, Ltd.
+Shionogi & Co., Ltd.
+Ship Healthcare Holdings Inc
+Shiseido Co., Ltd.
+Shizuoka Financial Group Inc
+Shizuoka Gas Co Ltd
+Sho Bond Holdings
+Shochiku Co Ltd
+Shoei Co Ltd
+Shoei Foods Corp
+Showa Sangyo Co Ltd
+Sigmaxyz Inc
+SIIX Corp
+Simplex Holdings Inc
+Sinfonia Technology Co Ltd
+SKY Perfect JSAT Holdings Inc.
+Skylark Co Ltd
+SMC Corp
+SMS Co Ltd
+Snow Peak Inc
+Sodick Co Ltd
+SoftBank Corp
+Softbank Group Corp.
+Softcreate Holdings Corp
+Sohgo Security Services Co Ltd
+Sojitz Corp.
+Solasto Corp
+Sompo Holdings Inc
+Sony Corp
+Sotetsu Holdings Inc
+Square Enix Holdings Co Ltd
+Stanley Electric Co Ltd
+Star Micronics Co Ltd
+Starts Corp Inc
+Stella Chemifa Corp
+Strike Company Ltd
+Subaru Corp
+Sugi Holdings Co Ltd
+SUMCO Corp.
+Sumitomo Bakelite Co Ltd
+Sumitomo Chemical Co., Ltd.
+Sumitomo Corp.
+Sumitomo Dainippon Pharma Co Ltd
+Sumitomo Electric Industries Ltd.
+Sumitomo Forestry
+Sumitomo Heavy Industries, Ltd.
+Sumitomo Metal Mining Co., Ltd.
+Sumitomo Mitsui Trust Holdings
+Sumitomo Mitsui Construction
+Sumitomo Mitsui Financial
+Sumitomo Osaka Cement Co., Ltd.
+Sumitomo Realty & Development Co.
+Sumitomo Rubber Ind Ltd
+Sun Frontier Fudousan Co Ltd
+Sundrug Co Ltd
+Suntory Beverage & Food Ltd
+Suruga Bank Ltd
+Suzuken Co Ltd
+Suzuki Motor Corp.
+SWCC Showa Holdings Co Ltd
+Sysmex Cor
+Systena Corp
+T Gaia Corp
+T&D Holdings, Inc.
+T.Hasegawa Co Ltd
+Tachi-S Co Ltd
+Tadano Ltd
+Taiheiyo Cement Corp.
+Taikisha Ltd
+Taisei Corp.
+Taisho Pharmaceutical Hold Ltd
+Taiyo Holdings Co Ltd
+Taiyo Nippon Sanso Corp
+Taiyo Yuden Co., Ltd.
+Takamatsu Construction Group
+Takara Bio Inc
+Takara Holdings Inc.
+Takara Standard Co Ltd
+Takasago Thermal Engineering Co Ltd
+Takashimaya Co., Ltd.
+Takeda Pharmaceutical Co., Ltd.
+Takeuchi Mfg Co Ltd
+Takuma Co Ltd
+Tama Home
+Tamron Co Ltd
+Tamura Corp
+Tanseisha Co Ltd
+TBS Holdings Inc
+TDK Corp
+Techmatrix Corp
+TechnoPro Holdings Inc
+Teijin Ltd.
+Terumo Corp.
+The 77 Bank Ltd
+The Bank Of Kyoto Ltd
+The Gunma Bank Ltd
+Iyogin Holdings Inc
+The Musashino Bank Ltd
+The Sumitomo Warehouse Co Ltd
+THK Co Ltd
+TIS Inc
+TKC Corp
+Toa Corp
+Toagosei Co Ltd
+Tobu Railway Co., Ltd.
+Tocalo Co Ltd
+Toda Corp
+Toei Co Ltd
+Toho Co., Ltd.
+Toho Gas Co Ltd
+Toho Holdings Co Ltd
+Toho Titanium Co Ltd
+Tohoku Electric Power Co Inc
+Tokai Carbon Co., Ltd.
+Tokai Holdings Corp
+Tokai Rika Co Ltd
+Tokai Tokyo Finan Holdings Inc
+Token Corp
+Tokio Marine Holdings, Inc.
+Tokushu Tokai Paper Co Ltd
+Tokuyama Corp.
+Tokyo Electric Power Co., Inc.
+Tokyo Electron Ltd.
+Tokyo Electron Device Ltd
+Tokyo Gas Co., Ltd.
+Tokyo Ohka Kogyo Co Ltd
+Tokyo Seimitsu Co Ltd
+Tokyo Steel Mfg Co Ltd
+Tokyo Tatemono Co., Ltd.
+Tokyo TY Financial Group Inc
+Tokyotokeiba Co Ltd
+Tokyu Construction
+Tokyu Corp.
+Tokyu Fudosan
+Tomy Co Ltd
+Topcon Corp
+Toppan Printing Co., Ltd.
+Topre Corp
+Toray Industries, Inc.
+Torex Semiconductor Ltd
+Toridoll Corp
+Torii Pharmaceutical Co Ltd
+Tosei Corp
+Toshiba Corp.
+Toshiba Tec Corp
+Tosoh Corp.
+Totetsu Kogyo
+TOTO Ltd.
+Towa Corp
+Towa Pharmaceutical Co Ltd
+Toyo Construction
+Toyo Ink Sc Holdings Co Ltd
+Toyo Seikan Group Holdings, Ltd.
+Toyo Suisan Kaisha Ltd
+Toyo Tanso Co Ltd
+Toyo Tire & Rubber Co Ltd
+Toyobo Co., Ltd.
+Toyoda Gosei Co Ltd
+Toyota Boshoku Corp
+Toyota Industries Corp
+Toyota Motor Corp
+Toyota Tsusho Corp.
+TPR Co Ltd
+Trancom Co Ltd
+Transcosmos Inc
+TRE Holdings Corp
+Trend Micro Inc.
+Tri Chemical Laboratories Inc
+Trusco Nakayama Corp
+TS Tech Co Ltd
+Tsubaki Nakashima Co Ltd
+Tsubakimoto Chain Co
+Tsugami Corp
+Tsumura & Co
+Tsuruha Holdings Inc
+TV Asahi Holdings Corp
+Uacj Corp
+Ube Industries, Ltd.
+Uchida Yoko Co Ltd
+Ulvac Inc
+Unicharm Co
+Unipres Corp
+United Arrows Ltd
+United Super Markets Holdings Inc
+Usen Next Holdings Co Ltd
+Ushio Inc
+USS Co Ltd
+UT Group Co Ltd
+V Technology Co Ltd
+V-cube Inc
+Valor Co Ltd
+ValueCommerce Co Ltd
+Vector Inc
+Vision Inc
+VT Holdings Co Ltd
+W-Scope Corp
+Wacoal Holdings Corp
+Wacom Co Ltd
+Warabeya Nichiyo Co Ltd
+Weathernews Inc
+Welcia Holdings
+West Japan Railway Co.
+WingArc1st Inc
+World Co Ltd
+Xebio Co Ltd
+Ya-Man Ltd
+Yakult Honsha Co Ltd
+Yamabiko Corp
+Yamada Holdings Co Ltd
+Yamaguchi Financial Group Inc
+Yamaha Corp.
+Yamaha Motor Co Ltd
+Yamato Holdings Co., Ltd.
+Yamato Kogyo Co Ltd
+Yamazaki Baking Co Ltd
+Yamazen Corp
+Yaoko Co Ltd
+Yaskawa Electric Corp.
+Yellow Hat Ltd
+Yodogawa Steel Works Ltd
+Yokogawa Bridge Holdings Corp
+Yokogawa Electric Corp.
+Yokohama Rubber Co Ltd
+Yokowo Co Ltd
+Yondoshi Holdings Inc
+Yoshinoya Holdings Co Ltd
+Yuasa Trading Co Ltd
+Z Holdings Corp
+Zenkoku Hosho Co Ltd
+Zensho Holdings Co Ltd
+Zeon Corp
+Zeria Pharmaceutical Co Ltd
+Zojirushi Corp
+ZOZO Inc
+Zuken Inc
