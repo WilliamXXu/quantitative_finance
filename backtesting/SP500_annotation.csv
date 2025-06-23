@@ -1,0 +1,775 @@
+Ticker,Company Name,Sector,Market Cap,Summary
+TESTER,N/A,N/A,N/A,"I lack the information to answer. I need the company's name to provide a business summary. Please provide the name of the company you're interested in.
+"
+MMM,3M Company,Industrials,$82.8B,"3M is a multinational conglomerate that manufactures a wide array of industrial, safety, and consumer products.
+"
+AOS,A. O. Smith Corporation,Industrials,$9.5B,"A. O. Smith is a global manufacturer of residential and commercial water heating equipment, boilers, and water treatment products.
+"
+ABT,Abbott Laboratories,Healthcare,$229.1B,"Abbott Laboratories is a global healthcare company that discovers, develops, manufactures, and sells a wide range of healthcare products, including medical devices, diagnostics, nutritional products, and branded generic pharmaceuticals.
+"
+ABBV,AbbVie Inc.,Healthcare,$338.8B,"AbbVie is a global biopharmaceutical company that researches, develops, manufactures, and sells medicines and therapies in areas like immunology, oncology, neuroscience, and aesthetics.
+"
+ACN,Accenture plc,Technology,$249.1B,"Accenture provides management consulting, technology, and outsourcing services to businesses globally, serving diverse industries.
+"
+ADBE,Adobe Inc.,Technology,$190.5B,"Adobe Inc. is a software company providing tools and services for creating, publishing, and promoting content across various mediums, including graphics, photography, and digital marketing.
+"
+AMD,"Advanced Micro Devices, Inc.",Technology,$181.8B,"Advanced Micro Devices (AMD) is a global semiconductor company focused on high-performance computing, graphics, and visualization technologies for various markets, including data centers, PCs, gaming, and embedded systems.
+"
+AES,The AES Corporation,Utilities,$7.5B,"The AES Corporation is a global power company that generates and distributes electricity through diverse sources, including renewables and traditional fuels.
+"
+AFL,Aflac Incorporated,Financial Services,$59.6B,"Aflac Incorporated is an insurance holding company and the largest provider of supplemental insurance in the U.S., offering health and life insurance products.
+"
+A,"Agilent Technologies, Inc.",N/A,$42.2B,"Agilent Technologies is a global leader providing instruments, software, services, and consumables for laboratories in life sciences, diagnostics, and applied chemical markets.
+"
+APD,"Air Products and Chemicals, Inc.",Basic Materials,$74.1B,"Air Products and Chemicals, Inc. is a global industrial gas and chemical company supplying essential gases, equipment, and services to diverse industries.
+"
+ABNB,"Airbnb, Inc.",Consumer Cyclical,$81.0B,"Airbnb is an online marketplace connecting hosts offering accommodations with guests seeking short-term rentals, earning revenue through fees from both parties.
+"
+AKAM,"Akamai Technologies, Inc.",Technology,$15.2B,"Akamai Technologies is a cloud company providing content delivery network (CDN), cybersecurity, and cloud services to optimize and secure online experiences.
+"
+ALB,Albemarle Corporation,Basic Materials,$9.4B,"Albemarle Corporation is a specialty chemical manufacturer that develops, manufactures, and markets chemicals, including lithium compounds, bromine, and catalysts.
+"
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,$16.8B,"Alexandria Real Estate Equities, Inc. is a REIT focused on developing, owning, and operating properties for the life science, agtech, and technology industries.
+"
+ALGN,"Align Technology, Inc.",Healthcare,$16.2B,"Align Technology designs, manufactures, and markets orthodontics, restorative, and aesthetic dentistry products, including the Invisalign system of clear aligners and iTero intraoral scanners.
+"
+ALLE,Allegion plc,Industrials,$11.2B,"Allegion PLC is a global provider of security products and solutions for homes, businesses, schools, and institutions.
+"
+LNT,Alliant Energy Corporation,Utilities,$15.3B,"Alliant Energy is a public utility holding company providing regulated electricity and natural gas services in the Midwest.
+"
+ALL,The Allstate Corporation,Financial Services,$51.1B,"The Allstate Corporation is an insurance company offering a range of property, casualty, life, and health insurance products.
+"
+GOOGL,Alphabet Inc.,Communication Services,$2343.1B,"Alphabet Inc. is a holding company whose largest segment, Google Services, provides internet services, hardware, and advertising, while also investing in cloud computing and other ventures.
+"
+GOOG,Alphabet Inc.,Communication Services,$2343.1B,"Alphabet Inc. is a holding company with segments including Google Services, Google Cloud, and Other Bets, offering products like Google Search, Maps, YouTube, and Cloud services.
+"
+MO,"Altria Group, Inc.",Consumer Defensive,$88.9B,"Altria Group, Inc. is a holding company that manufactures and sells tobacco products like cigarettes, smokeless tobacco, and oral nicotine pouches in the United States.
+"
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,$2483.3B,"Amazon is a multinational technology company involved in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.
+"
+AMCR,Amcor plc,Consumer Cyclical,$14.8B,"Amcor is a global packaging company that develops and produces flexible packaging, rigid containers, specialty cartons, closures, and related services for various industries.
+"
+AEE,Ameren Corporation,Utilities,$25.8B,"Ameren Corporation is a public utility holding company that operates in Missouri and Illinois, engaging in rate-regulated electricity and natural gas generation, transmission, and distribution.
+"
+AEP,"American Electric Power Company, Inc.",Utilities,$52.9B,"American Electric Power is a public utility holding company involved in electricity generation, transmission, and distribution, serving over five million customers in 11 states.
+"
+AXP,American Express Company,Financial Services,$225.0B,"American Express is a global financial services company providing credit cards, payment processing, and travel-related services to consumers and businesses.
+"
+AIG,"American International Group, Inc.",Financial Services,$45.8B,"American International Group (AIG) is a global insurance organization providing a range of property casualty insurance, life insurance, retirement products, and other financial services to businesses and individuals.
+"
+AMT,American Tower Corporation,Real Estate,$87.6B,"American Tower Corporation is a real estate investment trust that owns, develops, and operates wireless and broadcast communications infrastructure globally.
+"
+AWK,"American Water Works Company, Inc.",Utilities,$24.1B,"American Water Works Company is a water and wastewater utility company providing services to residential, commercial, and industrial customers across multiple states.
+"
+AMP,"Ameriprise Financial, Inc.",Financial Services,$51.8B,"Ameriprise Financial is a diversified financial services company providing financial planning, asset management, and insurance to individuals and institutions.
+"
+AME,"AMETEK, Inc.",Industrials,$41.7B,"AMETEK, Inc. is a global manufacturer of electronic instruments and electromechanical devices, operating through its Electronic Instruments Group (EIG) and Electromechanical (EMG) segments.
+"
+AMGN,Amgen Inc.,Healthcare,$165.5B,"Amgen is a biotechnology company that discovers, develops, manufactures, and markets innovative human medicines to treat serious diseases.
+"
+APH,Amphenol Corporation,Technology,$83.8B,"Amphenol designs, manufactures, and markets interconnect products, antennas, sensors, and systems for various industries.
+"
+ADI,"Analog Devices, Inc.",Technology,$104.1B,"Analog Devices is a semiconductor company specializing in data conversion, signal processing, and power management, providing solutions for various industries.
+"
+ANSS,"ANSYS, Inc.",Technology,$30.3B,"ANSYS, Inc. develops and markets engineering simulation software and services for product design, testing, and operation across various industries.
+"
+AON,Aon plc,Financial Services,$82.7B,"Aon plc is a professional services firm providing advice and solutions focused on risk, health, and wealth.
+"
+APA,APA Corporation,Energy,$8.2B,"APA Corporation is an independent energy company involved in hydrocarbon exploration and production of natural gas, crude oil, and natural gas liquids, with operations in the US, Egypt, and the UK.
+"
+APO,"Apollo Global Management, Inc.",Financial Services,$93.8B,"Apollo Global Management is a global alternative asset manager investing in credit, private equity, and real assets, also providing retirement services.
+"
+AAPL,Apple Inc.,Technology,$3492.2B,"Apple designs, manufactures, and sells smartphones, computers, tablets, wearables, and accessories, offering related software, services, and digital content.
+"
+AMAT,"Applied Materials, Inc.",Technology,$146.8B,"Applied Materials provides materials engineering solutions, equipment, services, and software for manufacturing semiconductor chips, advanced displays, and related products.
+"
+APTV,Aptiv PLC,Consumer Cyclical,$14.4B,"Aptiv PLC is a global technology company that designs, develops, and manufactures vehicle components, including electrical systems, safety technology, and connected mobility solutions.
+"
+ACGL,Arch Capital Group Ltd.,Financial Services,$35.0B,"Arch Capital Group Ltd. is a global insurance, reinsurance, and mortgage insurance provider.
+"
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,$22.2B,"Archer-Daniels-Midland (ADM) is a global agricultural supply chain manager and processor, dealing in commodities like oilseeds, corn, wheat, and producing specialty food and feed ingredients.
+"
+ANET,Arista Networks Inc,Technology,$145.5B,"Arista Networks develops and sells cloud networking solutions, including multilayer network switches and software-defined networking (SDN) for large data centers and cloud computing environments.
+"
+AJG,Arthur J. Gallagher & Co.,Financial Services,$79.1B,"Arthur J. Gallagher & Co. is a global insurance brokerage, risk management, and consulting services firm.
+"
+AIZ,"Assurant, Inc.",Financial Services,$11.0B,"Assurant is a global provider of risk management solutions, offering insurance and protection products for the auto, lifestyle, and housing sectors.
+"
+T,AT&T Inc.,Communication Services,$175.6B,"AT&T Inc. is a global telecommunications, media, and technology company providing services like wireless communication, data/broadband, and entertainment.
+"
+ATO,Atmos Energy Corporation,Utilities,$23.0B,"Atmos Energy is a natural gas-only distributor delivering gas to over 3.3 million customers in eight states, and manages pipeline and storage assets.
+"
+ADSK,"Autodesk, Inc.",Technology,$67.1B,"Autodesk provides software and services for architecture, engineering, construction, manufacturing, media, and entertainment industries.
+"
+ADP,"Automatic Data Processing, Inc.",Technology,$125.4B,"Automatic Data Processing (ADP) provides cloud-based human capital management (HCM) solutions and services, including payroll, benefits, talent management, and HR management.
+"
+AZO,"AutoZone, Inc.",Consumer Cyclical,$58.3B,"AutoZone is a retailer and distributor of automotive replacement parts and accessories in the Americas, also offering automotive diagnostic, repair, and shop management software.
+"
+AVB,"AvalonBay Communities, Inc.",Real Estate,$31.9B,"AvalonBay Communities, Inc. is a real estate investment trust (REIT) that develops, acquires, owns, and operates multifamily apartment communities.
+"
+AVY,Avery Dennison Corporation,Consumer Cyclical,$14.8B,"Avery Dennison is a global materials science and digital identification solutions company providing branding, information labeling, and functional materials for various industries.
+"
+AXON,"Axon Enterprise, Inc.",Industrials,$51.9B,"Axon Enterprise, Inc. develops law enforcement technology solutions, including TASERs, body-worn cameras, and cloud-based digital evidence management.
+"
+BKR,Baker Hughes Company,Energy,$48.4B,"Baker Hughes is an energy technology company providing products, services, and digital solutions for oil and gas exploration, production, and other energy/industrial applications.
+"
+BALL,Ball Corporation,Consumer Cyclical,$15.3B,"Ball Corporation supplies innovative, sustainable aluminum packaging solutions for beverage, personal care and household products.
+"
+BAC,Bank of America Corporation,Financial Services,$358.5B,"Bank of America is a multinational banking and financial services company providing commercial banking, wealth management, and investment banking to individuals, businesses, and institutions globally.
+"
+BAX,Baxter International Inc.,Healthcare,$16.1B,"Baxter International Inc. is a healthcare company providing a range of products for kidney disease, dialysis, sterile IV solutions and other medical conditions.
+"
+BDX,"Becton, Dickinson and Company",Healthcare,$71.1B,"Becton, Dickinson and Company (BD) is a global medical technology company that develops, manufactures, and sells a range of medical devices, instrument systems, and reagents.
+"
+BRK-B,Berkshire Hathaway Inc.,Financial Services,$1021.1B,"Berkshire Hathaway is a holding company with diverse business activities, including insurance, utilities, energy, transportation, manufacturing, and retail.
+"
+BBY,"Best Buy Co., Inc.",Consumer Cyclical,$18.5B,"Best Buy is a multinational retailer of consumer electronics, appliances, and related services, operating primarily in the US and Canada.
+"
+TECH,Bio-Techne Corporation,Healthcare,$12.0B,"Bio-Techne develops, manufactures, and supplies reagents, instruments, and diagnostics for the research and clinical diagnostic markets.
+"
+BIIB,Biogen Inc.,Healthcare,$21.2B,"Biogen is a multinational biotechnology company specializing in the discovery, development, and delivery of therapies for neurological diseases.
+"
+BLK,"BlackRock, Inc.",Financial Services,$157.1B,"BlackRock is a global investment management firm providing a range of investment, advisory, and risk management services to institutional and retail clients.
+"
+BX,Blackstone Inc.,Financial Services,$213.5B,"Blackstone is a global alternative asset manager investing in real estate, private equity, hedge fund solutions, credit, and infrastructure.
+"
+BK,The Bank of New York Mellon Corporation,Financial Services,$61.5B,"The Bank of New York Mellon is a global financial services company providing investment and wealth management and services related to securities to institutions, corporations, and individuals.
+"
+BA,The Boeing Company,Industrials,$136.4B,"Boeing is a leading global aerospace company that designs, manufactures, and sells commercial airplanes, defense, space, and security systems, providing related support services.
+"
+BKNG,Booking Holdings Inc.,Consumer Cyclical,$155.5B,"Booking Holdings Inc. is a global provider of online travel and related services, offering reservations and travel fare aggregation through brands like Booking.com, Priceline, and Agoda.
+"
+BWA,BorgWarner Inc.,Consumer Cyclical,$6.8B,"BorgWarner is a global automotive supplier providing tech solutions for combustion, hybrid, and electric vehicles.
+"
+BSX,Boston Scientific Corporation,Healthcare,$154.7B,"Boston Scientific is a global medical device company that develops, manufactures, and markets devices for various interventional medical specialties.
+"
+BMY,Bristol-Myers Squibb Company,Healthcare,$121.1B,"Bristol-Myers Squibb is a global biopharmaceutical company engaged in discovering, developing, licensing, manufacturing, and marketing medicines.
+"
+AVGO,Broadcom Inc.,Technology,$1087.5B,"Broadcom Inc. is a global tech company that designs, develops, and supplies a wide range of semiconductor and infrastructure software solutions.
+"
+BR,"Broadridge Financial Solutions, Inc.",Technology,$28.1B,"Broadridge Financial Solutions is a global Fintech leader providing investor communications and technology-driven solutions to banks, broker-dealers, asset and wealth managers, and public companies.
+"
+BRO,"Brown & Brown, Inc.",Financial Services,$30.5B,"Brown & Brown, Inc. is an insurance brokerage firm providing risk management solutions to businesses and individuals.
+"
+BF-B,Brown-Forman Corporation,Consumer Defensive,$14.7B,"Brown-Forman Corp. produces and distributes a range of alcoholic beverages, including whiskey, tequila, vodka, and wine.
+"
+BLDR,"Builders FirstSource, Inc.",Industrials,$18.7B,"Builders FirstSource is the largest U.S. supplier of structural building products, value-added components, and services to professionals in residential construction and remodeling.
+"
+BG,Bunge Global SA,Consumer Defensive,$9.8B,"Bunge Global SA is a global agribusiness and food company involved in the farm-to-consumer food chain.
+"
+BXP,"BXP, Inc.",Real Estate,$12.9B,"BXP Inc. is a real estate investment trust (REIT) that develops, owns, and manages premier workplaces, including office, residential, and retail properties, in major US markets.
+"
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,$11.5B,"C.H. Robinson is a global logistics company providing freight transportation and outsourcing solutions through a network of contracted carriers.
+"
+CDNS,"Cadence Design Systems, Inc.",Technology,$83.0B,"Cadence Design Systems provides software, hardware, and intellectual property for designing integrated circuits and electronic systems.
+"
+CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,$7.7B,"Caesars Entertainment, Inc. is a global leader in gaming and hospitality, operating casinos and hotels with well-known brands like Caesars Palace and Harrah's.
+"
+CPT,Camden Property Trust,Real Estate,$12.4B,"Camden Property Trust is a real estate company primarily focused on owning, managing, developing, redeveloping, acquiring, and constructing multifamily apartment communities across the United States.
+"
+CPB,The Campbell's Company,Consumer Defensive,$11.1B,"The Campbell's Company is a global food company focused on simple meals & beverages and snacks, marketing products under brands like Campbell's, Pepperidge Farm, and Snyder's of Hanover.
+"
+COF,Capital One Financial Corporation,Financial Services,$77.7B,"Capital One Financial Corporation is a financial holding company specializing in credit cards, auto loans, banking, and savings accounts, primarily focused on consumer lending.
+"
+CAH,"Cardinal Health, Inc.",Healthcare,$30.8B,"Cardinal Health distributes pharmaceuticals, medical products, and provides healthcare solutions to hospitals, pharmacies, and healthcare systems.
+"
+KMX,"CarMax, Inc.",Consumer Cyclical,$12.9B,"CarMax is the largest used car retailer in the US, operating through sales and auto finance segments with a customer-centric online and in-store experience.
+"
+CCL,Carnival Corporation & plc,Consumer Cyclical,$36.8B,"Carnival Corporation & plc is the world's largest cruise company, offering vacation experiences through a portfolio of global brands.
+"
+CARR,Carrier Global Corporation,Industrials,$57.9B,"Carrier Global Corporation provides heating, ventilation, air conditioning (HVAC), refrigeration, and fire & security solutions.
+"
+CAT,Caterpillar Inc.,Industrials,$173.3B,"Caterpillar Inc. manufactures construction and mining equipment, engines, turbines, and locomotives, offering financial services.
+"
+CBOE,"Cboe Global Markets, Inc.",Financial Services,$21.8B,"Cboe Global Markets is a global provider of trading and investment solutions, operating exchanges and offering products across multiple asset classes like options, futures, equities, and foreign exchange.
+"
+CBRE,"CBRE Group, Inc.",Real Estate,$45.0B,"CBRE Group is a commercial real estate services and investment firm, offering services to property owners, occupiers, and investors globally.
+"
+CDW,CDW Corporation,Technology,$27.5B,"CDW Corporation provides information technology solutions and services to businesses, governments, educational institutions, and healthcare organizations.
+"
+CE,Celanese Corporation,Basic Materials,$7.6B,"Celanese Corporation is a global chemical and specialty materials company, producing engineered polymers, acetic acid, and other downstream derivative chemicals.
+"
+COR,"Cencora, Inc.",Healthcare,$49.1B,"Cencora, formerly AmerisourceBergen, is a global healthcare solutions company focused on pharmaceutical distribution and services, partnering with manufacturers, providers, and pharmacies.
+"
+CNC,Centene Corporation,Healthcare,$30.1B,"Centene provides managed healthcare services to government-sponsored programs like Medicaid and Medicare, as well as commercial markets, focusing on underinsured and uninsured individuals.
+"
+CNP,"CenterPoint Energy, Inc.",Utilities,$21.0B,"CenterPoint Energy is a public utility holding company that provides electric transmission, distribution, and natural gas services to customers in the US.
+"
+CF,"CF Industries Holdings, Inc.",Basic Materials,$15.6B,"CF Industries Holdings, Inc. manufactures and distributes nitrogen fertilizers and hydrogen and nitrogen products for various industries.
+"
+CRL,"Charles River Laboratories International, Inc.",Healthcare,$8.5B,"Charles River Laboratories provides preclinical and clinical lab services, gene and cell therapy support, and research products to the pharmaceutical, biotech, and medical device industries.
+"
+SCHW,The Charles Schwab Corporation,Financial Services,$149.9B,"The Charles Schwab Corporation is a multinational financial services company providing banking, investing, and wealth management advisory services to retail and institutional clients.
+"
+CHTR,"Charter Communications, Inc.",Communication Services,$49.0B,"Charter Communications, operating as Spectrum, is a broadband connectivity company and cable operator providing internet, TV, and voice services to over 30 million customers in 41 states.
+"
+CVX,Chevron Corporation,Energy,$268.5B,"Chevron is an integrated energy company involved in producing crude oil and natural gas, manufacturing transportation fuels, lubricants, petrochemicals, and additives.
+"
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,$78.1B,"Chipotle Mexican Grill develops and operates fast-casual restaurants, offering a focused menu of customizable Mexican food like burritos, tacos, and salads.
+"
+CB,Chubb Limited,Financial Services,$109.3B,"Chubb is a global insurance company providing property and casualty, accident and health, reinsurance, and life insurance products.
+"
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,$26.3B,"Church & Dwight Co., Inc. is a consumer goods company that develops, manufactures, and markets household, personal care, and specialty products.
+"
+CI,The Cigna Group,Healthcare,$80.3B,"The Cigna Group is a health service company offering integrated health plans and services like medical, dental, life, and accident insurance.
+"
+CINF,Cincinnati Financial Corporation,Financial Services,$21.4B,"Cincinnati Financial Corporation provides property, casualty, and life insurance, primarily marketed through independent insurance agencies.
+"
+CTAS,Cintas Corporation,Industrials,$81.4B,"Cintas provides corporate identity uniforms, and other business services and supplies, such as cleaning, safety, and first aid products.
+"
+CSCO,"Cisco Systems, Inc.",Technology,$249.2B,"Cisco Systems designs, manufactures, and sells networking, security, collaboration, and cloud-based products and services.
+"
+C,Citigroup Inc.,Financial Services,$149.2B,"Citigroup is a global financial services company providing diverse offerings such as banking, credit cards, loans, wealth management, and capital market services.
+"
+CFG,"Citizens Financial Group, Inc.",Financial Services,$21.0B,"Citizens Financial Group, headquartered in Providence, RI, offers consumer and commercial banking products/services, including wealth management, primarily in the New England, Midwest, and Mid-Atlantic regions.
+"
+CLX,The Clorox Company,Consumer Defensive,$18.0B,"The Clorox Company manufactures and markets consumer and professional products, including cleaning, household, and personal care items.
+"
+CME,CME Group Inc.,Financial Services,$87.1B,"CME Group operates a global derivatives marketplace, providing trading and clearing services for futures, options, and OTC markets across various asset classes.
+"
+CMS,CMS Energy Corporation,Utilities,$20.1B,"CMS Energy Corporation, based in Michigan, primarily operates through Consumers Energy, providing electricity and natural gas to millions of Michigan residents, while also engaging in independent power production.
+"
+KO,The Coca-Cola Company,Consumer Defensive,$271.9B,"The Coca-Cola Company manufactures, sells, and markets non-alcoholic beverages, syrups, and concentrates globally.
+"
+CTSH,Cognizant Technology Solutions Corporation,Technology,$41.5B,"Cognizant is a global IT services provider offering consulting and outsourcing to major enterprises across various industries, including finance, healthcare, and consumer products.
+"
+CL,Colgate-Palmolive Company,Consumer Defensive,$70.8B,"Colgate-Palmolive manufactures and distributes household, health care, personal care, and pet nutrition products globally.
+"
+CMCSA,Comcast Corporation,Communication Services,$128.3B,"Comcast is a global media and technology company with two primary businesses: Connectivity & Platforms, and Content & Experiences.
+"
+CAG,"Conagra Brands, Inc.",Consumer Defensive,$12.0B,"Conagra Brands, Inc. is a consumer packaged goods company that manufactures and sells processed and packaged foods under various brand names in supermarkets, restaurants, and food service establishments.
+"
+COP,ConocoPhillips,Energy,$129.6B,"ConocoPhillips explores, produces, transports, and markets crude oil, natural gas, and related products globally.
+"
+ED,"Consolidated Edison, Inc.",Utilities,$33.3B,"Consolidated Edison, Inc. is an energy holding company that delivers regulated electricity, gas, and steam in New York City and Westchester County.
+"
+STZ,"Constellation Brands, Inc.",Consumer Defensive,$31.2B,"Constellation Brands (NYSE: STZ) is a leading international producer and marketer of beer, wine, and spirits, including brands like Corona, Modelo, and Robert Mondavi.
+"
+CEG,Constellation Energy Corporation,Utilities,$98.2B,"Constellation Energy is a leading US energy company and the nation's largest producer of clean, carbon-free energy, supplying power, natural gas, and energy management services.
+"
+COO,"The Cooper Companies, Inc.",Healthcare,$19.3B,"The Cooper Companies, Inc. is a global medical device company focused on ophthalmology and surgical markets, operating through CooperVision (contact lenses) and CooperSurgical (women's health).
+"
+CPRT,"Copart, Inc.",Industrials,$56.6B,"Copart, Inc. provides online vehicle auction and remarketing services, specializing in used, wholesale, and salvage vehicles for various sellers.
+"
+GLW,Corning Incorporated,Technology,$45.6B,"Corning Incorporated is a materials science company specializing in specialty glass, ceramics, and related materials and technologies.
+"
+CPAY,"Corpay, Inc.",Technology,$27.1B,"Corpay (NYSE: CPAY) is a global S&P500 corporate payments company that provides payment and spend management solutions to businesses and consumers.
+"
+CTVA,"Corteva, Inc.",Basic Materials,$43.9B,"Corteva, Inc. is a global agriculture company providing seed, crop protection, and digital solutions to farmers.
+"
+CSGP,"CoStar Group, Inc.",Real Estate,$31.9B,"CoStar Group, Inc. provides real estate information, analytics, and online marketplaces for the commercial and residential property industries.
+"
+COST,Costco Wholesale Corporation,Consumer Defensive,$462.9B,"Costco Wholesale operates membership-only warehouse clubs offering a wide range of discounted merchandise.
+"
+CTRA,Coterra Energy Inc.,Energy,$20.7B,"Coterra Energy Inc. is an independent oil and gas company focused on developing and exploring oil, natural gas, and natural gas liquids in the United States.
+"
+CRWD,"CrowdStrike Holdings, Inc.",Technology,$102.8B,"CrowdStrike is a cybersecurity company providing cloud-delivered protection for endpoints, cloud workloads, identity, and data.
+"
+CCI,Crown Castle Inc.,Real Estate,$39.0B,"Crown Castle is a real estate investment trust that owns, operates, and leases shared communications infrastructure, including towers, fiber, and small cells.
+"
+CSX,CSX Corporation,Industrials,$63.4B,"CSX Corporation is a transportation company providing rail-based freight services, including traditional rail, intermodal containers, and rail-to-truck transfers.
+"
+CMI,Cummins Inc.,Industrials,$50.8B,"Cummins Inc. designs, manufactures, distributes, and services diesel and alternative fuel engines, generators, and related components.
+"
+CVS,CVS Health Corporation,Healthcare,$70.1B,"CVS Health is a leading healthcare company providing pharmacy services, health plans, and health & wellness solutions.
+"
+DHR,Danaher Corporation,Healthcare,$152.5B,"Danaher Corporation is a global science and technology innovator that designs, manufactures, and markets medical, industrial, and commercial products and services.
+"
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,$23.5B,"Darden Restaurants, Inc. owns and operates full-service dining restaurants in the US and Canada, with brands like Olive Garden and LongHorn Steakhouse.
+"
+DVA,DaVita Inc.,Healthcare,$14.5B,"DaVita Inc. is a leading provider of kidney dialysis services, primarily for patients with chronic kidney failure and end-stage renal disease (ESRD).
+"
+DAY,Dayforce Inc,Technology,$10.5B,"Dayforce Inc. is a global human capital management (HCM) software company providing a cloud platform for HR, payroll, benefits, and workforce management.
+"
+DECK,Deckers Outdoor Corporation,Consumer Cyclical,$26.2B,"Deckers Outdoor Corp. designs, markets, and distributes footwear, apparel, and accessories for casual and high-performance activities under brands like UGG, HOKA, and Teva.
+"
+DE,Deere & Company,Industrials,$127.4B,"Deere & Company manufactures and distributes equipment for agriculture, construction, and forestry, offering financial services as well.
+"
+DELL,Dell Technologies Inc.,Technology,$72.9B,"Dell Technologies Inc. is a global technology company that designs, develops, manufactures, and sells a wide range of products and services including PCs, servers, storage, and IT solutions.
+"
+DAL,"Delta Air Lines, Inc.",Industrials,$44.6B,"Delta Air Lines provides scheduled air transportation for passengers and cargo, operating an extensive network from key hubs globally.
+"
+DVN,Devon Energy Corporation,Energy,$22.4B,"Devon Energy is a leading US-based independent oil and natural gas exploration and production company with operations focused onshore.
+"
+DXCM,"DexCom, Inc.",Healthcare,$34.7B,"DexCom, Inc. designs, manufactures, and markets continuous glucose monitoring (CGM) systems for diabetes management.
+"
+FANG,"Diamondback Energy, Inc.",Energy,$48.1B,"Diamondback Energy, Inc. is an independent oil and natural gas company focused on hydrocarbon exploration and development in the Permian Basin in West Texas and New Mexico.
+"
+DLR,"Digital Realty Trust, Inc.",Real Estate,$56.5B,"Digital Realty Trust, Inc. is a real estate investment trust (REIT) that owns, operates, and invests in data centers, offering colocation and interconnection solutions.
+"
+DFS,Discover Financial Services,Financial Services,$50.7B,"Discover Financial Services is a direct banking and payment services company offering credit cards, banking services, and payment solutions.
+"
+DG,Dollar General Corporation,Consumer Defensive,$16.0B,"Dollar General is a discount retailer offering a variety of consumable items, seasonal goods, home products, and apparel.
+"
+DLTR,"Dollar Tree, Inc.",Consumer Defensive,$16.0B,"Dollar Tree, Inc. operates discount variety stores, including Dollar Tree and Family Dollar, offering merchandise at fixed prices.
+"
+D,"Dominion Energy, Inc.",Utilities,$45.4B,"Dominion Energy is an integrated energy company providing electricity and natural gas services to homes and businesses in multiple states.
+"
+DPZ,"Domino's Pizza, Inc.",Consumer Cyclical,$15.7B,"Domino's Pizza, Inc. is a global pizza company that delivers and carries out pizza, along with other fast-food items, through company-owned and franchised stores.
+"
+DOV,Dover Corporation,Industrials,$28.1B,"Dover Corporation is a diversified global manufacturer providing industrial products, equipment, components, and solutions across five segments.
+"
+DOW,Dow Inc.,Basic Materials,$26.7B,"Dow Inc. is a materials science company that manufactures chemicals, plastics, and sealants for various industries.
+"
+DHI,"D.R. Horton, Inc.",Consumer Cyclical,$44.6B,"D.R. Horton is a leading homebuilding company involved in construction, sales, and related financial services.
+"
+DTE,DTE Energy Company,Utilities,$25.4B,"DTE Energy is a Detroit-based diversified energy company involved in energy-related businesses and services, including electricity and natural gas sales, distribution, and storage.
+"
+DUK,Duke Energy Corporation,Utilities,$88.0B,"Duke Energy is an energy company focused on electric power and gas distribution, with a growing portfolio of clean energy assets.
+"
+DD,"DuPont de Nemours, Inc.",Basic Materials,$32.2B,"DuPont de Nemours, Inc. is a global company that develops and manufactures specialty materials, chemicals, and solutions for various industries, including electronics, construction, and automotive.
+"
+EMN,Eastman Chemical Company,Basic Materials,$11.7B,"Eastman Chemical is a global specialty materials company producing a range of advanced materials, chemicals, and fibers.
+"
+ETN,Eaton Corporation plc,Industrials,$124.6B,"Eaton Corporation plc is a diversified power management company providing energy-efficient solutions for electrical, hydraulic, and mechanical power through various segments like electrical products, aerospace, and eMobility.
+"
+EBAY,eBay Inc.,Consumer Cyclical,$32.3B,"eBay Inc. is a global e-commerce company connecting buyers and sellers through its online marketplace in over 190 markets.
+"
+ECL,Ecolab Inc.,Basic Materials,$70.7B,"Ecolab provides water, hygiene, and energy technologies and services, including cleaning, sanitizing, pest elimination, and equipment maintenance for various industries.
+"
+EIX,Edison International,Utilities,$20.3B,"Edison International, via subsidiaries, generates and distributes electricity, investing in energy services and renewable power in Southern California.
+"
+EW,Edwards Lifesciences Corporation,Healthcare,$42.5B,"Edwards Lifesciences is a medical technology company focused on structural heart disease and critical care monitoring, developing devices like artificial heart valves.
+"
+EA,Electronic Arts Inc.,Communication Services,$34.2B,"Electronic Arts (EA) develops, markets, publishes, and delivers digital interactive entertainment, including games, content, and online services, for various platforms like consoles, PCs, and mobile devices.
+"
+ELV,"Elevance Health, Inc.",Healthcare,$93.3B,"Elevance Health is a health benefits company offering managed healthcare, insurance products, and administrative services to 47 million members.
+"
+EMR,Emerson Electric Co.,Industrials,$70.4B,"Emerson Electric Co. is a Fortune 500 company that delivers engineering services, manufactures industrial automation equipment, climate control systems, and precision measurement instruments, and provides software engineering solutions.
+"
+ENPH,"Enphase Energy, Inc.",Technology,$8.8B,"Enphase Energy is a global energy technology company that designs, develops, manufactures, and sells microinverter-based solar-plus-storage systems.
+"
+ETR,Entergy Corporation,Utilities,$35.4B,"Entergy Corporation is an integrated energy company focused on electric power production and retail distribution in the Southern United States.
+"
+EOG,"EOG Resources, Inc.",Energy,$71.8B,"EOG Resources is an energy company that explores, develops, produces, and markets crude oil, natural gas liquids, and natural gas, primarily in the United States.
+"
+EPAM,"EPAM Systems, Inc.",Technology,$14.6B,"EPAM Systems is a global IT services company specializing in software engineering, digital platform engineering, and consulting.
+"
+EQT,EQT Corporation,Energy,$31.6B,"EQT Corporation is an American energy company focused on natural gas production, gathering, and transmission in the Appalachian Basin.
+"
+EFX,Equifax Inc.,Industrials,$33.5B,"Equifax is a global data, analytics, and technology company providing information solutions and HR business process outsourcing services.
+"
+EQIX,"Equinix, Inc.",Real Estate,$90.4B,"Equinix is a digital infrastructure company specializing in internet connectivity and data centers globally.
+"
+EQR,Equity Residential,Real Estate,$28.1B,"Equity Residential is a real estate investment trust (REIT) that acquires, develops, and manages multifamily apartment properties in dynamic cities.
+"
+ERIE,Erie Indemnity Company,Financial Services,$21.3B,"Erie Indemnity manages affairs for Erie Insurance Exchange, issuing and underwriting various insurance products.
+"
+ESS,"Essex Property Trust, Inc.",Real Estate,$20.4B,"Essex Property Trust is a REIT that acquires, develops, redevelops, and manages multifamily apartment communities, primarily on the West Coast.
+"
+EL,The Estée Lauder Companies Inc.,Consumer Defensive,$23.7B,"The Estée Lauder Companies Inc. manufactures and sells prestige beauty products, including skincare, makeup, fragrance, and hair care.
+"
+EG,"Everest Group, Ltd.",Financial Services,$14.6B,"Everest Group, Ltd. is a global provider of reinsurance and insurance solutions, offering property, casualty, and specialty lines of business.
+"
+EVRG,"Evergy, Inc.",Utilities,$14.9B,"Evergy, Inc. provides clean, safe, and reliable energy to 1.7 million customers in Kansas and Missouri through its subsidiaries.
+"
+ES,Eversource Energy,Utilities,$21.5B,"Eversource Energy is a utility holding company engaged in energy delivery, providing electricity, natural gas, and water services to customers in the Northeast US.
+"
+EXC,Exelon Corporation,Utilities,$41.2B,"Exelon Corporation is a utility services holding company focused on electricity and natural gas distribution and transmission through its six regulated utilities.
+"
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,$21.8B,"Expedia Group is a global online travel company offering a wide range of services like booking accommodations, flights, and car rentals through various brands.
+"
+EXPD,"Expeditors International of Washington, Inc.",Industrials,$15.7B,"Expeditors International of Washington, Inc. is a non-asset-based third-party logistics provider offering global logistics services and supply chain solutions.
+"
+EXR,Extra Space Storage Inc.,Real Estate,$34.2B,"Extra Space Storage Inc. is a self-managed real estate investment trust that owns and operates self-storage facilities.
+"
+XOM,Exxon Mobil Corporation,Energy,$478.3B,"ExxonMobil explores, produces, refines, and markets oil, gas, petroleum, and petrochemical products.
+"
+FFIV,"F5, Inc.",Technology,$17.6B,"F5, Inc. is a technology company specializing in application security, multi-cloud management, and application delivery networking.
+"
+FDS,FactSet Research Systems Inc.,Financial Services,$17.8B,"FactSet is a global provider of integrated financial data, analytics, and technology solutions for investment professionals.
+"
+FICO,Fair Isaac Corporation,Technology,$45.1B,"Fair Isaac Corporation (FICO) is an applied analytics company providing software and services, including FICO scores, for credit risk assessment and decision-making.
+"
+FAST,Fastenal Company,Industrials,$42.2B,"Fastenal is a distributor of industrial and construction supplies, including fasteners, tools, and safety equipment, offering supply chain solutions like inventory management and on-site services.
+"
+FRT,Federal Realty Investment Trust,Real Estate,$9.4B,"Federal Realty Investment Trust is a real estate investment trust (REIT) that owns, manages, and develops high-quality retail and mixed-use properties, primarily shopping centers, in densely populated areas.
+"
+FDX,FedEx Corporation,Industrials,$60.8B,"FedEx Corp. provides transportation, e-commerce, and business services globally.
+"
+FIS,"Fidelity National Information Services, Inc.",Technology,$44.3B,"Fidelity National Information Services (FIS) provides financial technology solutions for merchants, banks, and capital markets.
+"
+FITB,Fifth Third Bancorp,Financial Services,$29.5B,"Fifth Third Bancorp is a bank holding company providing retail & commercial banking, consumer lending, and investment advisory services.
+"
+FSLR,"First Solar, Inc.",Technology,$17.4B,"First Solar, Inc. designs, manufactures, and markets photovoltaic (PV) solar modules using thin-film semiconductor technology, providing solar energy solutions globally.
+"
+FE,FirstEnergy Corp.,Utilities,$23.2B,"FirstEnergy Corp. generates, transmits, and distributes electricity to customers across Ohio, Pennsylvania, West Virginia, Maryland, New Jersey, and New York.
+"
+FI,"Fiserv, Inc.",Technology,$130.6B,"Fiserv is a global provider of payments and financial services technology solutions, offering services like payment processing, mobile banking, and account processing.
+"
+FMC,FMC Corporation,Basic Materials,$4.5B,"FMC Corporation is an agricultural sciences company that provides crop protection solutions like insecticides, herbicides, and fungicides to growers globally.
+"
+F,Ford Motor Company,Consumer Cyclical,$39.8B,"Ford Motor Company manufactures and sells Ford and Lincoln brand vehicles, along with related services.
+"
+FTNT,"Fortinet, Inc.",Technology,$80.5B,"Fortinet is a cybersecurity company that develops and sells a range of security solutions, including firewalls, endpoint security, and intrusion detection systems, serving businesses of all sizes.
+"
+FTV,Fortive Corporation,Technology,$27.6B,"Fortive is a diversified industrial growth company providing essential technology and workflow solutions across various industries like healthcare, manufacturing, and energy.
+"
+FOXA,Fox Corporation,Communication Services,$24.0B,"Fox Corporation is a news, sports, and entertainment company that produces and distributes content through brands like FOX News, FOX Sports, FOX Entertainment, and Tubi.
+"
+FOX,Fox Corporation,Communication Services,$24.0B,"Fox Corporation is a news, sports, and entertainment company producing and distributing content through brands like FOX News, FOX Sports, and Tubi.
+"
+BEN,"Franklin Resources, Inc.",Financial Services,$10.8B,"Franklin Resources, operating as Franklin Templeton, is a global investment manager providing diverse investment solutions and related services to individuals, institutions, and high-net-worth clients.
+"
+FCX,Freeport-McMoRan Inc.,Basic Materials,$52.7B,"Freeport-McMoRan is a mining company that produces copper, gold, and molybdenum, with operations in the Americas and Indonesia.
+"
+GRMN,Garmin Ltd.,Technology,$42.0B,"Garmin Ltd. designs, develops, manufactures, and markets GPS-enabled and wireless products for the automotive, aviation, marine, outdoor, and fitness markets.
+"
+IT,"Gartner, Inc.",Technology,$41.7B,"Gartner is a technological research and consulting firm that provides IT-related insights and analysis to businesses.
+"
+GE,GE Aerospace,Industrials,$219.6B,"GE Aerospace is a leading global provider of jet and turboprop engines, systems, and services for commercial, military, business, and general aviation aircraft.
+"
+GEHC,GE HealthCare Technologies Inc.,Healthcare,$39.8B,"GE HealthCare Technologies Inc. is a medical technology, pharmaceutical diagnostics, and digital solutions company providing integrated solutions, services, and data analytics.
+"
+GEV,GE Vernova Inc.,Utilities,$101.4B,"GE Vernova designs, manufactures, delivers, and services technologies for sustainable electric power systems, including gas, nuclear, wind, and hydro.
+"
+GEN,Gen Digital Inc.,Technology,$17.0B,"Gen Digital Inc. is a global cybersecurity software and services company, providing solutions like Norton, Avast, and LifeLock for consumers.
+"
+GNRC,Generac Holdings Inc.,Industrials,$8.5B,"Generac Holdings Inc. is an energy technology solutions company that provides backup and prime power generation products, solar + battery storage systems, and other energy-related equipment for residential, commercial, and industrial use.
+"
+GD,General Dynamics Corporation,Industrials,$69.9B,"General Dynamics is a global aerospace and defense company providing business aviation, combat vehicles, weapons systems, C4ISR, IT solutions, and shipbuilding.
+"
+GIS,"General Mills, Inc.",Consumer Defensive,$32.8B,"General Mills is a global manufacturer and marketer of branded consumer foods, including snacks, cereal, convenient meals, and pet food, sold through retail stores.
+"
+GM,General Motors Company,Consumer Cyclical,$47.6B,"General Motors designs, manufactures, and sells cars, trucks, and automobile parts, while also providing auto financing and software services globally.
+"
+GPC,Genuine Parts Company,Consumer Cyclical,$16.5B,"Genuine Parts Company distributes automotive and industrial replacement parts and provides related value-added services.
+"
+GILD,"Gilead Sciences, Inc.",Healthcare,$124.2B,"Gilead Sciences is a research-based biopharmaceutical company that discovers, develops, and commercializes innovative medicines to treat life-threatening diseases, including HIV/AIDS, liver diseases, cancer, and respiratory and cardiovascular conditions.
+"
+GPN,Global Payments Inc.,Industrials,$28.5B,"Global Payments Inc. is a multinational financial technology company providing payment technology and services to merchants, issuers, and consumers.
+"
+GL,Globe Life Inc.,Financial Services,$10.3B,"Globe Life Inc. is a holding company marketing individual life and supplemental health insurance products and services through its subsidiaries.
+"
+GDDY,GoDaddy Inc.,Technology,$29.5B,"GoDaddy is a services platform that provides tools and services, such as domain registration, website building, and hosting, to help small businesses establish and grow their online presence.
+"
+GS,"The Goldman Sachs Group, Inc.",Financial Services,$200.4B,"Goldman Sachs is a global financial institution providing investment banking, securities, and investment management services to corporations, financial institutions, governments, and individuals.
+"
+HAL,Halliburton Company,Energy,$23.1B,"Halliburton is a global oilfield service company providing services and products to the energy industry related to the exploration, development, and production of oil and natural gas.
+"
+HIG,"The Hartford Financial Services Group, Inc.",Financial Services,$32.7B,"The Hartford Financial Services Group is an insurance and financial services company providing property and casualty insurance, group benefits, and mutual funds.
+"
+HAS,"Hasbro, Inc.",Consumer Cyclical,$8.2B,"Hasbro is a multinational toy and entertainment company that designs, manufactures, and markets toys, games, and consumer products.
+"
+HCA,"HCA Healthcare, Inc.",Healthcare,$85.3B,"HCA Healthcare is a healthcare services company that owns, manages, and operates hospitals, surgery centers, and emergency care facilities.
+"
+DOC,"Healthpeak Properties, Inc.",Real Estate,$14.0B,"Healthpeak Properties, Inc. is a REIT that owns, operates, and develops healthcare real estate, focusing on lab, outpatient medical, and continuing care retirement communities.
+"
+HSIC,"Henry Schein, Inc.",Healthcare,$10.2B,"Henry Schein, Inc. is a solutions company for health care professionals providing health care products and services to medical, dental, and veterinary practitioners.
+"
+HSY,The Hershey Company,Consumer Defensive,$29.5B,"The Hershey Company is a manufacturer and distributor of chocolate and sugar-based confections, as well as baked goods and beverages.
+"
+HES,Hess Corporation,Energy,$44.0B,"Hess Corporation is a global independent energy company involved in the exploration and production of crude oil and natural gas.
+"
+HPE,Hewlett Packard Enterprise Company,Technology,$28.1B,"Hewlett Packard Enterprise (HPE) is an information technology company delivering cloud-based services and solutions, including servers, storage, and networking.
+"
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,$62.9B,"Hilton Worldwide Holdings Inc. is a global hospitality company that manages and franchises a broad portfolio of hotels and resorts.
+"
+HOLX,"Hologic, Inc.",Healthcare,$16.4B,"Hologic, Inc. is a medical technology company focused on women's health, providing diagnostic products, medical imaging systems, and surgical products.
+"
+HD,"The Home Depot, Inc.",Consumer Cyclical,$411.1B,"The Home Depot is a home improvement retailer selling building materials, home improvement products, lawn and garden products, and related services.
+"
+HON,Honeywell International Inc.,Industrials,$144.6B,"Honeywell is a diversified technology company providing solutions in aerospace, building automation, industrial automation, and energy and sustainability.
+"
+HRL,Hormel Foods Corporation,Consumer Defensive,$16.1B,"Hormel Foods is a global branded food company that develops, processes, and distributes various meat, nuts, and other food products.
+"
+HST,"Host Hotels & Resorts, Inc.",Real Estate,$11.6B,"Host Hotels & Resorts is a real estate investment trust (REIT) that invests in and manages luxury and upper-upscale hotels, primarily in the United States, with some properties in Brazil and Canada.
+"
+HWM,Howmet Aerospace Inc.,Industrials,$51.9B,"Howmet Aerospace provides advanced engineered solutions for the aerospace and transportation industries, manufacturing jet engine components, fastening systems, and structural components.
+"
+HPQ,HP Inc.,Technology,$30.5B,"HP Inc. is a global tech company providing personal computers, printing solutions, and related services.
+"
+HUBB,Hubbell Incorporated,Industrials,$21.5B,"Hubbell Incorporated designs, manufactures, and sells electrical and electronic products for various applications, including construction, industrial, and utility markets.
+"
+HUM,Humana Inc.,Healthcare,$35.0B,"Humana Inc. provides health insurance services, including Medicare Advantage plans, and other healthcare services in the United States.
+"
+HBAN,Huntington Bancshares Incorporated,Financial Services,$24.6B,"Huntington Bancshares Incorporated is a diversified regional bank holding company providing a range of banking, payments, wealth management, and risk management products and services.
+"
+HII,"Huntington Ingalls Industries, Inc.",Industrials,$7.7B,"Huntington Ingalls Industries (HII) is the largest military shipbuilding company in the U.S., providing ships and all-domain solutions, including manufacturing, engineering, and professional services to government and industry partners.
+"
+IBM,International Business Machines Corporation,Technology,$243.5B,"IBM is a multinational tech company providing hybrid cloud, AI, and consulting solutions, along with IT infrastructure and software.
+"
+IEX,IDEX Corporation,Industrials,$15.0B,"IDEX Corporation is a global provider of applied solutions and engineered products, serving niche markets with fluid & metering technologies, health & science technologies, and fire & safety products.
+"
+IDXX,"IDEXX Laboratories, Inc.",Healthcare,$38.4B,"IDEXX Laboratories develops, manufactures, and distributes products and services for animal veterinary, livestock and poultry, dairy, and water testing markets.
+"
+ITW,Illinois Tool Works Inc.,Industrials,$75.1B,"Illinois Tool Works (ITW) is a diversified manufacturer that produces engineered fasteners, components, equipment, and specialty products across various industries worldwide.
+"
+INCY,Incyte Corporation,Healthcare,$14.5B,"Incyte is a biopharmaceutical company focused on discovering, developing, and commercializing therapeutics, primarily for cancer and autoimmune disorders.
+"
+IR,Ingersoll Rand Inc.,Industrials,$37.3B,"Ingersoll Rand provides mission-critical flow creation products, industrial solutions, and related aftermarket services, serving diverse markets like industrial, medical, and energy.
+"
+PODD,Insulet Corporation,Healthcare,$20.0B,"Insulet Corporation develops, manufactures, and sells the Omnipod Insulin Management System for people with insulin-dependent diabetes.
+"
+INTC,Intel Corporation,Technology,$85.1B,"Intel designs, manufactures, and sells computer components like CPUs, networking, data storage, and communication technologies for various sectors.
+"
+ICE,"Intercontinental Exchange, Inc.",Financial Services,$92.3B,"Intercontinental Exchange (ICE) operates global financial exchanges and clearing houses, providing data, technology, and listing services.
+"
+IFF,International Flavors & Fragrances Inc.,Basic Materials,$22.0B,"International Flavors & Fragrances (IFF) creates and manufactures flavors, fragrances, and specialty ingredients for the food, beverage, health, biosciences, scent, and pharmaceutical industries.
+"
+IP,International Paper Company,Consumer Cyclical,$28.4B,"International Paper is a global producer of sustainable packaging, pulp, and other fiber-based products and is also one of the world's largest recyclers.
+"
+IPG,"The Interpublic Group of Companies, Inc.",Communication Services,$10.4B,"Interpublic Group (IPG) is a global advertising and marketing services company specializing in advertising, digital marketing, communications, media, and public relations.
+"
+INTU,Intuit Inc.,Technology,$164.7B,"Intuit is a global financial technology platform providing software and services for consumers, small businesses, and self-employed individuals, including TurboTax, QuickBooks, Credit Karma, and Mailchimp.
+"
+ISRG,"Intuitive Surgical, Inc.",Healthcare,$210.7B,"Intuitive Surgical develops, manufactures, and markets the da Vinci Surgical System and other robotic products for minimally invasive surgery.
+"
+IVZ,Invesco Ltd.,Financial Services,$8.4B,"Invesco Ltd. is an independent investment management firm offering various investment strategies and products, managing assets for retail and institutional investors globally.
+"
+INVH,Invitation Homes Inc.,Real Estate,$19.3B,"Invitation Homes is a real estate investment trust (REIT) that owns, renovates, leases, and manages single-family homes in the US.
+"
+IQV,IQVIA Holdings Inc.,Healthcare,$37.3B,"IQVIA provides advanced analytics, technology solutions, and clinical research services to the life sciences industry.
+"
+IRM,Iron Mountain Incorporated,Real Estate,$30.5B,"Iron Mountain (NYSE: IRM) is a global leader in storage and information management services, helping organizations manage physical and digital data.
+"
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,$17.1B,"J.B. Hunt Transport Services is a North American surface transportation, delivery, and logistics company.
+"
+JBL,Jabil Inc.,Technology,$17.9B,"Jabil Inc. is a global manufacturing services and solutions provider, offering electronics design, production, and product management.
+"
+JKHY,"Jack Henry & Associates, Inc.",Technology,$12.6B,"Jack Henry & Associates provides technology solutions and payment processing services primarily for financial institutions like community banks and credit unions.
+"
+J,Jacobs Solutions Inc.,Industrials,$16.2B,"Jacobs Solutions Inc. provides diverse professional services, including engineering, design, construction, and consulting, to commercial, industrial, and government clients globally.
+"
+JNJ,Johnson & Johnson,Healthcare,$372.4B,"Johnson & Johnson researches, develops, manufactures, and sells a range of healthcare products, primarily pharmaceuticals and medical devices, after spinning off its consumer health business into Kenvue in 2023.
+"
+JCI,Johnson Controls International plc,Industrials,$56.8B,"Johnson Controls provides smart building technologies and solutions, including HVAC, fire, security systems, and industrial refrigeration.
+"
+JPM,JPMorgan Chase & Co.,Financial Services,$756.6B,"JPMorgan Chase & Co. is a global financial services firm engaged in investment banking, consumer and commercial banking, asset and wealth management, and financial transaction processing.
+"
+JNPR,"Juniper Networks, Inc.",Technology,$11.9B,"Juniper Networks develops and markets networking products like routers, switches, and network security solutions for network operators, cloud providers, and enterprise IT teams.
+"
+K,Kellanova,Consumer Defensive,$28.2B,"Kellanova is a global snacking, international cereal and noodles, and North America frozen foods company with iconic brands.
+"
+KVUE,Kenvue Inc.,Consumer Defensive,$39.8B,"Kenvue Inc. is the world's largest pure-play consumer health company by revenue, offering science-backed brands like Aveeno, Band-Aid, and Tylenol.
+"
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive,$42.2B,"Keurig Dr Pepper Inc. manufactures, markets, and distributes a variety of hot and cold beverages, including coffees, soft drinks, juices, and brewing systems.
+"
+KEY,KeyCorp,Financial Services,$19.8B,"KeyCorp is a bank holding company providing retail and commercial banking, investment management, and other financial services through KeyBank.
+"
+KEYS,"Keysight Technologies, Inc.",Technology,$30.7B,"Keysight Technologies provides electronic design and test solutions, including software and services, for various industries.
+"
+KMB,Kimberly-Clark Corporation,Consumer Defensive,$42.9B,"Kimberly-Clark manufactures and markets a wide range of personal care, consumer tissue, and professional products made from natural or synthetic fibers.
+"
+KIM,Kimco Realty Corporation,Real Estate,$15.1B,"Kimco Realty Corporation is a real estate investment trust (REIT) that owns and operates open-air, grocery-anchored shopping centers and mixed-use properties in the U.S.
+"
+KMI,"Kinder Morgan, Inc.",Energy,$61.4B,"Kinder Morgan is a major North American energy infrastructure company that owns and operates pipelines and terminals for transporting and storing natural gas, crude oil, and other products.
+"
+KKR,KKR & Co. Inc.,Financial Services,$141.9B,"KKR & Co. Inc. is a global investment firm managing assets across multiple classes, including private equity, real estate, credit, and insurance solutions.
+"
+KLAC,KLA Corporation,Technology,$100.9B,"KLA Corporation provides process control and yield management solutions for the semiconductor and related nano-electronics industries.
+"
+KHC,The Kraft Heinz Company,Consumer Defensive,$34.6B,"The Kraft Heinz Company manufactures and markets food and beverage products, boasting well-known brands like Heinz and Kraft.
+"
+KR,The Kroger Co.,Consumer Defensive,$47.3B,"The Kroger Co. is a major U.S. retailer operating supermarkets, pharmacies, and multi-department stores offering food and non-food products.
+"
+LHX,"L3Harris Technologies, Inc.",Industrials,$39.6B,"L3Harris Technologies is a global aerospace and defense technology innovator providing defense and commercial technologies, products, and services across air, land, sea, space, and cyber domains.
+"
+LH,Labcorp Holdings Inc.,Healthcare,$20.9B,"Labcorp provides clinical lab services and end-to-end drug development support, serving doctors, hospitals, pharmaceutical companies, researchers, and patients.
+"
+LRCX,Lam Research Corporation,Technology,$105.2B,"Lam Research is a global company that supplies wafer fabrication equipment and services to the semiconductor industry.
+"
+LW,"Lamb Weston Holdings, Inc.",Consumer Defensive,$8.4B,"Lamb Weston Holdings, Inc. is a leading global producer, distributor, and marketer of value-added frozen potato, sweet potato, appetizer and vegetable products.
+"
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,$31.6B,"Las Vegas Sands Corp. develops and operates integrated resorts featuring accommodations, gaming, entertainment, retail, and convention facilities, primarily in the U.S., Macau, and Singapore.
+"
+LDOS,"Leidos Holdings, Inc.",Technology,$18.9B,"Leidos Holdings provides scientific, engineering, and IT services and solutions to defense, intelligence, civil, and health markets.
+"
+LEN,Lennar Corporation,Consumer Cyclical,$33.7B,"Lennar Corp. is a major American home construction company involved in building and selling single-family homes and residential land.
+"
+LII,Lennox International Inc.,Industrials,$20.8B,"Lennox International Inc. is a global provider of climate control solutions for the heating, ventilation, air conditioning, and refrigeration (HVACR) markets.
+"
+LLY,Eli Lilly and Company,Healthcare,$757.4B,"Eli Lilly discovers, develops, manufactures, and markets pharmaceutical products across various therapeutic areas like diabetes, oncology, immunology, and neuroscience.
+"
+LIN,Linde plc,Basic Materials,$216.0B,"Linde plc is a global industrial gas and engineering company that produces and distributes atmospheric and process gases, serving diverse industries.
+"
+LYV,"Live Nation Entertainment, Inc.",Communication Services,$34.5B,"Live Nation Entertainment is a global live entertainment company that promotes concerts, manages venues, sells tickets, and provides sponsorships & advertising.
+"
+LKQ,LKQ Corporation,Consumer Cyclical,$9.6B,"LKQ Corporation provides alternative and specialty parts to repair and accessorize automobiles and other vehicles.
+"
+LMT,Lockheed Martin Corporation,Industrials,$105.9B,"Lockheed Martin is a global security and aerospace company focused on the research, design, development, manufacture, integration, and sustainment of advanced technology systems, products, and services.
+"
+L,Loews Corporation,Financial Services,$18.7B,"Loews Corporation is a diversified holding company with businesses in insurance, energy, hospitality, and packaging.
+"
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,$145.9B,"Lowe's Companies, Inc. is a global home improvement retailer offering products and services for maintenance, repair, remodeling, and home decorating.
+"
+LULU,Lululemon Athletica Inc.,Consumer Cyclical,$50.3B,"Lululemon Athletica Inc. designs, distributes, and retails athletic apparel, footwear, and accessories through its stores and online.
+"
+LYB,LyondellBasell Industries N.V.,Basic Materials,$24.9B,"LyondellBasell Industries N.V. is a global chemical company that manufactures and sells plastics, petrochemicals, and basic chemicals, and also refines crude oil.
+"
+MTB,M&T Bank Corporation,Financial Services,$33.0B,"M&T Bank Corporation is a bank holding company providing retail and commercial banking, trust, wealth management, and investment services.
+"
+MPC,Marathon Petroleum Corporation,Energy,$49.7B,"Marathon Petroleum Corp. refines, markets, and transports petroleum products in the United States, operating the nation's largest refining system.
+"
+MKTX,MarketAxess Holdings Inc.,Financial Services,$7.5B,"MarketAxess operates an electronic trading platform for fixed-income securities, offering交易, data, analytics, and post-trade services to institutional investors and broker-dealers.
+"
+MAR,"Marriott International, Inc.",Consumer Cyclical,$81.3B,"Marriott International operates, franchises, and licenses hotel, residential, and timeshare properties across various brands globally.
+"
+MMC,"Marsh & McLennan Companies, Inc.",Financial Services,$110.8B,"Marsh & McLennan Companies is a global professional services firm providing advice and solutions in risk, strategy, and human capital, operating through its Marsh, Guy Carpenter, Mercer, and Oliver Wyman subsidiaries.
+"
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,$33.0B,"Martin Marietta Materials is a supplier of aggregates and heavy building materials like crushed stone, sand, and gravel, with operations in the US, Canada, and the Caribbean.
+"
+MAS,Masco Corporation,Industrials,$16.8B,"Masco Corporation designs, manufactures, and distributes branded home improvement and building products like paints, faucets, and hardware.
+"
+MA,Mastercard Incorporated,Financial Services,$516.9B,"Mastercard is a technology company in the payments industry, connecting consumers, financial institutions, merchants, governments, and businesses globally through its electronic payment network.
+"
+MTCH,"Match Group, Inc.",Communication Services,$8.4B,"Match Group, Inc. develops and manages online dating platforms like Tinder, Hinge, Match, and OkCupid, connecting people through digital technologies.
+"
+MKC,"McCormick & Company, Incorporated",Consumer Defensive,$20.6B,"McCormick & Company manufactures, markets, and distributes spices, seasoning mixes, condiments, and other flavoring products to the food industry.
+"
+MCD,McDonald's Corporation,Consumer Cyclical,$207.0B,"McDonald's Corporation is a global fast-food chain, operating and franchising restaurants with a diverse menu, while also engaging in real estate through owning/leasing property to franchisees.
+"
+MCK,McKesson Corporation,Healthcare,$77.0B,"McKesson distributes pharmaceuticals, provides health information technology, medical supplies, and healthcare management tools.
+"
+MDT,Medtronic plc,Healthcare,$117.6B,"Medtronic is a global medical technology company that develops, manufactures, and sells device-based medical therapies and healthcare solutions for a wide range of chronic diseases.
+"
+MRK,"Merck & Co., Inc.",Healthcare,$226.8B,"Merck & Co., Inc. is a biopharmaceutical company discovering, developing, manufacturing, and marketing prescription medicines, vaccines, biologic therapies, and animal health products.
+"
+META,"Meta Platforms, Inc.",Communication Services,$1785.9B,"Meta Platforms, Inc. builds technology that connects people through its Family of Apps (Facebook, Instagram, Messenger, Threads, and WhatsApp) and explores augmented and virtual reality via Reality Labs.
+"
+MET,"MetLife, Inc.",Financial Services,$58.9B,"MetLife, Inc. is a global financial services company providing insurance, annuities, and employee benefits.
+"
+MTD,Mettler-Toledo International Inc.,Healthcare,$28.8B,"Mettler-Toledo manufactures and markets precision instruments and related services for laboratory, industrial, and food retailing applications, including weighing instruments, product inspection systems, and software solutions.
+"
+MGM,MGM Resorts International,Consumer Cyclical,$10.2B,"MGM Resorts International is a global hospitality and entertainment company that owns and operates casino resorts, offering gaming, hotel, dining, and entertainment experiences.
+"
+MCHP,Microchip Technology Incorporated,Technology,$28.7B,"Microchip Technology Inc. is an American semiconductor company that manufactures microcontrollers, mixed-signal, analog, and Flash-IP integrated circuits for various applications.
+"
+MU,"Micron Technology, Inc.",Technology,$104.3B,"Micron Technology is a global semiconductor company specializing in memory and storage solutions like DRAM and NAND flash memory, used in various applications.
+"
+MSFT,Microsoft Corporation,Technology,$3072.4B,"Microsoft develops, licenses, and supports software, services, devices, and solutions globally, offering operating systems, cloud computing, and applications.
+"
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,$18.8B,"Mid-America Apartment Communities (MAA) is a real estate investment trust (REIT) that focuses on owning, operating, acquiring, and developing multifamily apartment communities, primarily in the Southeastern and Southwestern United States.
+"
+MRNA,"Moderna, Inc.",Healthcare,$13.5B,"Moderna is a biotechnology company focused on developing messenger RNA (mRNA) therapeutics and vaccines for infectious diseases, cancer, and rare genetic disorders.
+"
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,$7.6B,"Mohawk Industries manufactures and distributes flooring products for residential and commercial applications, including carpets, tiles, and hardwood.
+"
+MOH,"Molina Healthcare, Inc.",Healthcare,$18.1B,"Molina Healthcare, Inc. provides managed healthcare services under government-sponsored programs like Medicaid and Medicare, and through state insurance marketplaces.
+"
+TAP,Molson Coors Beverage Company,Consumer Defensive,$11.0B,"Molson Coors Beverage Company produces, markets, and distributes beer, flavored malt beverages, and other drinks globally under brands like Coors Light and Miller.
+"
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,$76.8B,"Mondelez International is a global snack food and beverage company that manufactures and markets products like chocolates, biscuits, and baked snacks.
+"
+MPWR,"Monolithic Power Systems, Inc.",Technology,$31.9B,"Monolithic Power Systems (MPS) is a fabless company that designs, develops, and markets high-performance power solutions, including power management ICs and modules, for various markets.
+"
+MNST,Monster Beverage Corporation,Consumer Defensive,$44.9B,"Monster Beverage Corporation develops, markets, and distributes energy drink beverages and concentrates, including brands like Monster Energy.
+"
+MCO,Moody's Corporation,Financial Services,$89.9B,"Moody's Corporation is a global risk assessment firm providing credit ratings, research, and analytics to businesses and governments.
+"
+MS,Morgan Stanley,Financial Services,$223.3B,"Morgan Stanley is a global financial services firm providing investment banking, wealth management, and investment management services.
+"
+MOS,The Mosaic Company,Basic Materials,$8.8B,"The Mosaic Company produces and markets concentrated phosphate and potash crop nutrients for the global agriculture industry.
+"
+MSI,"Motorola Solutions, Inc.",Technology,$80.4B,"Motorola Solutions provides communication infrastructure, devices, software, and services for public safety and enterprise security.
+"
+MSCI,MSCI Inc.,Financial Services,$45.6B,"MSCI Inc. provides critical decision support tools and services for the global investment community, including indexes, analytics, and ESG and climate products.
+"
+NDAQ,"Nasdaq, Inc.",Financial Services,$47.6B,"Nasdaq, Inc. is a global technology company providing data, analytics, software, and services to capital markets and other industries.
+"
+NTAP,"NetApp, Inc.",Technology,$25.2B,"NetApp is an intelligent data infrastructure company providing unified data storage, integrated data services, and CloudOps solutions.
+"
+NFLX,"Netflix, Inc.",Communication Services,$432.5B,"Netflix is a streaming entertainment service providing subscription-based access to movies, TV shows, and games across various devices.
+"
+NEM,Newmont Corporation,Basic Materials,$51.2B,"Newmont Corporation is the world's leading gold company and also produces copper, silver, zinc, and lead across mines in several countries.
+"
+NWSA,News Corporation,Communication Services,$17.2B,"News Corporation is a global media and information services company with businesses in digital real estate, subscription video, news, and book publishing.
+"
+NWS,News Corporation,Communication Services,$17.2B,"News Corporation is a global media and information services company with businesses in digital real estate, subscription video, news, and book publishing.
+"
+NEE,"NextEra Energy, Inc.",Utilities,$142.3B,"NextEra Energy is a leading clean energy company that generates, transmits, and distributes electricity through its subsidiaries, including Florida Power & Light.
+"
+NKE,"NIKE, Inc.",Consumer Cyclical,$110.3B,"Nike designs, develops, and markets athletic footwear, apparel, equipment, and accessories worldwide.
+"
+NI,NiSource Inc.,Utilities,$17.8B,"NiSource Inc. is a utility company providing natural gas and electric services to ~4 million customers across six states via Columbia Gas and NIPSCO.
+"
+NDSN,Nordson Corporation,Industrials,$12.3B,"Nordson engineers and manufactures precision dispensing equipment for adhesives, coatings, sealants, and other materials, serving diverse industries.
+"
+NSC,Norfolk Southern Corporation,Industrials,$57.1B,"Norfolk Southern is a transportation company focused on rail transport of raw materials, intermediate products, and finished goods across the Eastern U.S., also managing overseas freight through Atlantic and Gulf Coast ports.
+"
+NTRS,Northern Trust Corporation,Financial Services,$22.2B,"Northern Trust Corporation is a global financial institution providing asset servicing, investment management, and wealth management services to institutions, high-net-worth individuals, and families.
+"
+NOC,Northrop Grumman Corporation,Industrials,$68.4B,"Northrop Grumman is a global aerospace and defense company providing solutions in autonomous systems, cyber, and command & control to government and commercial clients.
+"
+NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,$12.4B,"Norwegian Cruise Line Holdings Ltd. operates global cruises through its brands: Norwegian Cruise Line, Oceania Cruises, and Regent Seven Seas Cruises.
+"
+NRG,"NRG Energy, Inc.",Utilities,$20.8B,"NRG Energy is an integrated energy company involved in energy generation and retail electricity, serving homes and businesses across North America.
+"
+NUE,Nucor Corporation,Basic Materials,$31.3B,"Nucor Corporation is a manufacturer of steel and steel products, and is the largest recycler in North America.
+"
+NVDA,NVIDIA Corporation,Technology,$3057.1B,"NVIDIA designs and sells graphics processing units (GPUs), and system-on-a-chip units (SoCs) for gaming, data centers, automotive, and AI, and high-performance computing.
+"
+NVR,"NVR, Inc.",Consumer Cyclical,$24.2B,"NVR, Inc. is a home construction and mortgage banking company that builds and sells homes primarily on the East Coast under the Ryan Homes, NVHomes, and Heartland Homes brands.
+"
+NXPI,NXP Semiconductors N.V.,Technology,$54.2B,"NXP Semiconductors N.V. designs, manufactures, and markets high-performance mixed-signal semiconductors for automotive, industrial & IoT, mobile, and communication infrastructure markets.
+"
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,$77.8B,"O'Reilly Automotive, Inc. is a specialty retailer of automotive aftermarket parts, tools, supplies, equipment, and accessories, serving both professional service providers and do-it-yourself customers.
+"
+OXY,Occidental Petroleum Corporation,Energy,$44.4B,"Occidental Petroleum (Oxy) explores, produces, and markets oil, gas, and chemicals, with operations in the US, Middle East, and North Africa.
+"
+ODFL,"Old Dominion Freight Line, Inc.",Industrials,$41.3B,"Old Dominion Freight Line is a leading North American less-than-truckload (LTL) motor carrier, providing regional, inter-regional, and national services.
+"
+OMC,Omnicom Group Inc.,Communication Services,$16.7B,"Omnicom Group is a global marketing and corporate communications company providing data-inspired advertising, media planning, and digital commerce solutions.
+"
+ON,ON Semiconductor Corporation,Technology,$22.0B,"ON Semiconductor (onsemi) designs, manufactures, and markets semiconductor components, offering solutions for power and signal management in various applications.
+"
+OKE,"ONEOK, Inc.",Energy,$61.1B,"ONEOK, Inc. is a midstream energy company focused on natural gas and natural gas liquids (NGL) infrastructure, providing gathering, processing, fractionation, transportation, and storage services.
+"
+ORCL,Oracle Corporation,Technology,$480.1B,"Oracle Corporation provides products and services that address corporate information technology, including database software, cloud computing, and enterprise resource planning.
+"
+OTIS,Otis Worldwide Corporation,Industrials,$37.5B,"Otis Worldwide is a leading global manufacturer, installer, and servicer of elevators, escalators, and moving walkways.
+"
+PCAR,PACCAR Inc,Industrials,$56.1B,"PACCAR Inc. designs, manufactures, and distributes light, medium, and heavy-duty commercial trucks and related aftermarket parts, also offering financial services.
+"
+PKG,Packaging Corporation of America,Consumer Cyclical,$18.9B,"Packaging Corporation of America manufactures and sells containerboard and corrugated packaging products in the US, along with uncoated free sheet paper.
+"
+PARA,Paramount Global,Communication Services,$7.7B,"Paramount Global is a media, streaming, and entertainment company creating content and experiences for audiences worldwide through its TV media, filmed entertainment, and direct-to-consumer segments.
+"
+PH,Parker-Hannifin Corporation,Industrials,$88.7B,"Parker-Hannifin is a Fortune 250 global leader specializing in motion and control technologies and systems for diversified industrial and aerospace markets.
+"
+PAYX,"Paychex, Inc.",Technology,$54.3B,"Paychex, Inc. provides human capital management solutions, including payroll, HR, insurance, and benefits outsourcing, primarily for small to medium-sized businesses.
+"
+PAYC,"Paycom Software, Inc.",Technology,$11.9B,"Paycom is a US company providing cloud-based human capital management (HCM) software that covers the entire employment lifecycle.
+"
+PNR,Pentair plc,Industrials,$16.3B,"Pentair plc provides sustainable water solutions and equipment for residential, commercial, industrial, infrastructure, and agricultural applications, operating through Flow, Water Solutions, and Pool segments.
+"
+PEP,"PepsiCo, Inc.",Consumer Defensive,$199.8B,"PepsiCo is a global food and beverage company that manufactures, markets, and distributes a wide range of snacks and drinks.
+"
+PKI,N/A,N/A,N/A,"Please provide the name of the company you would like me to summarize. ""N/A"" means ""not applicable"" and doesn't give me any information to work with.
+"
+PFE,Pfizer Inc.,Healthcare,$149.8B,"Pfizer discovers, develops, manufactures, and sells biopharmaceutical products and vaccines globally.
+"
+PM,Philip Morris International Inc.,Consumer Defensive,$203.7B,"Philip Morris International manufactures and sells cigarettes, tobacco, and nicotine-containing products, including reduced-risk alternatives like heated tobacco and e-vapor products.
+"
+PSX,Phillips 66,Energy,$50.9B,"Phillips 66 is an integrated energy company involved in refining, transporting, storing, and marketing natural gas, petroleum products, and petrochemicals.
+"
+PNW,Pinnacle West Capital Corporation,Utilities,$10.0B,"Pinnacle West Capital Corp. is an energy holding company that provides electricity generation, transmission, and distribution, primarily through its subsidiary, Arizona Public Service (APS).
+"
+PXD,N/A,N/A,N/A,"Please provide the name of the company you would like me to summarize. ""N/A"" means ""not applicable"" and doesn't give me any information to work with.
+"
+PNC,"The PNC Financial Services Group, Inc.",Financial Services,$78.7B,"PNC Financial Services Group is a diversified financial services company providing retail, corporate, and institutional banking, along with asset management and residential mortgage services.
+"
+POOL,Pool Corporation,Industrials,$12.9B,"Pool Corporation is the world's largest wholesale distributor of swimming pool supplies, equipment, and related outdoor living products.
+"
+PPG,"PPG Industries, Inc.",Basic Materials,$26.1B,"PPG Industries is a global manufacturer and distributor of paints, coatings, and specialty materials, serving various markets including automotive, aerospace, and construction.
+"
+PPL,PPL Corporation,Utilities,$25.0B,"PPL Corporation is an energy holding company focused on electricity and natural gas generation, transmission, and distribution in the US.
+"
+PFG,"Principal Financial Group, Inc.",Financial Services,$18.4B,"Principal Financial Group provides retirement, asset management, and insurance products and services to businesses, individuals, and institutions globally.
+"
+PG,The Procter & Gamble Company,Consumer Defensive,$396.3B,"Procter & Gamble (P&G) manufactures and markets a wide range of consumer goods, including beauty, grooming, health care, fabric and home care, and baby, feminine, and family care products.
+"
+PGR,The Progressive Corporation,Financial Services,$145.9B,"The Progressive Corporation is an insurance holding company providing personal and commercial auto, residential property, and other specialty insurance lines.
+"
+PLD,"Prologis, Inc.",Real Estate,$110.0B,"Prologis, Inc. is a real estate investment trust (REIT) that owns, develops, and operates logistics facilities across the Americas, Europe, and Asia.
+"
+PRU,"Prudential Financial, Inc.",Financial Services,$40.4B,"Prudential Financial, Inc. is a global financial services leader offering insurance, retirement, and investment products and services to both retail and institutional customers.
+"
+PEG,Public Service Enterprise Group Incorporated,Utilities,$41.9B,"Public Service Enterprise Group (PSEG) is a diversified energy company that generates, transmits, and distributes electricity and gas, primarily in the Northeastern and Mid-Atlantic United States.
+"
+PSA,Public Storage,Real Estate,$52.9B,"Public Storage is the world's largest owner, operator, and developer of self-storage facilities, offering storage spaces for personal and business use.
+"
+PHM,"PulteGroup, Inc.",Consumer Cyclical,$22.8B,"PulteGroup, Inc. is a homebuilder in the United States with operations in 24 states and over 40 major markets, offering homes for first-time buyers, move-up buyers, and active adults.
+"
+PVH,PVH Corp.,Consumer Cyclical,$4.4B,"PVH Corp. is a fashion company that designs and markets branded sportswear, apparel, and accessories under brands like Calvin Klein and Tommy Hilfiger.
+"
