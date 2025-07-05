@@ -1,0 +1,72 @@
+Ticker,Company Name,Sector,Market Cap,Summary
+AAPL,Apple Inc.,Technology,$3001.1B,"Apple Inc. designs, manufactures, and markets consumer electronics, software, and services, including the iPhone, Mac, iPad, and wearables.
+"
+PYPL,"PayPal Holdings, Inc.",Financial Services,$71.0B,"PayPal Holdings, Inc. is a technology platform company that enables digital and mobile payments for consumers and merchants through its online payments system.
+"
+GOOGL,Alphabet Inc.,Communication Services,$2094.8B,"Alphabet Inc. is a multinational technology conglomerate and the parent company of Google, along with other ventures in various technological fields.
+"
+QCOM,QUALCOMM Incorporated,Technology,$173.2B,"Qualcomm develops and commercializes foundational wireless technologies, including semiconductors, software, and related services, licensing its intellectual property and investing in strategic initiatives.
+"
+MTCH,"Match Group, Inc.",Communication Services,$7.4B,"Match Group, Inc. is a global online dating services provider with a portfolio of brands like Tinder, Match.com, and Hinge, offering both free and premium subscription features.
+"
+DOW,Dow Inc.,Basic Materials,$19.0B,"Dow Inc. is a materials science company providing plastics, performance materials, coatings, and silicones for packaging, infrastructure, mobility, and consumer care.
+"
+XOM,Exxon Mobil Corporation,Energy,$469.6B,"ExxonMobil is a global energy and chemical company involved in the exploration, production, and sale of crude oil, natural gas, petroleum products, and petrochemicals, while also expanding into low-carbon solutions.
+"
+OXY,Occidental Petroleum Corporation,Energy,$41.8B,"Occidental Petroleum (Oxy) is an international energy and chemical company focused on hydrocarbon exploration and production in the U.S. and the Middle East, and petrochemical manufacturing in the U.S., Canada, and Chile.
+"
+CVX,Chevron Corporation,Energy,$247.8B,"Chevron is an American multinational energy corporation involved in oil and gas exploration, production, refining, marketing, and transport, as well as chemicals manufacturing and sales.
+"
+SLB,Schlumberger Limited,Energy,$45.6B,"Schlumberger, doing business as SLB, provides technology and services for reservoir characterization, drilling, production, and processing to the oil and gas industry worldwide.
+"
+SU,Suncor Energy Inc.,Energy,$45.9B,"Suncor Energy Inc. is a Canadian integrated energy company specializing in oil sands development, production and upgrading, as well as petroleum refining and marketing.
+"
+TGT,Target Corporation,Consumer Defensive,$44.9B,"Target Corporation is a major American retailer operating discount department stores and hypermarkets, offering general merchandise and food.
+"
+UPS,"United Parcel Service, Inc.",Industrials,$85.1B,"UPS is a global package delivery and supply chain management company, offering transportation, distribution, and logistics services to businesses and consumers in over 200 countries and territories.
+"
+NKE,"NIKE, Inc.",Consumer Cyclical,$106.2B,"NIKE, Inc. designs, develops, and markets athletic footwear, apparel, equipment, and accessories worldwide, operating through company-owned stores, licensed retailers, and online platforms.
+"
+AZN,AstraZeneca PLC,Healthcare,$216.3B,"AstraZeneca PLC is a biopharmaceutical company focused on researching, developing, and commercializing prescription medicines in areas like oncology, cardiovascular, and respiratory diseases.
+"
+PFE,Pfizer Inc.,Healthcare,$137.0B,"Pfizer Inc. is a research-based biopharmaceutical company that discovers, develops, manufactures, and markets healthcare products, including medicines and vaccines, across various therapeutic areas.
+"
+MRK,"Merck & Co., Inc.",Healthcare,$196.4B,"Merck & Co., Inc. is a global pharmaceutical company providing health solutions through prescription medicines, vaccines, biologic therapies, and animal health products.
+"
+BMY,Bristol-Myers Squibb Company,Healthcare,$94.2B,"Bristol-Myers Squibb (BMS) is a global biopharmaceutical company focused on discovering, developing, and delivering innovative medicines for serious diseases like cancer, cardiovascular, and immunological disorders.
+"
+JNJ,Johnson & Johnson,Healthcare,$366.7B,"Johnson & Johnson is a global healthcare company focused on pharmaceuticals and medical technologies.
+"
+TMO,Thermo Fisher Scientific Inc.,Healthcare,$153.8B,"Thermo Fisher Scientific enables customers to make the world healthier, cleaner and safer by providing analytical instruments, laboratory equipment, software, services, consumables, reagents and chemicals.
+"
+VALE,Vale S.A.,Basic Materials,$41.2B,"Vale S.A. is a Brazilian multinational corporation focused on metals and mining, primarily producing iron ore and nickel, and also operating significant logistics infrastructure.
+"
+RIO,Rio Tinto Group,Basic Materials,$94.8B,"Rio Tinto Group is a leading international mining and metals company that explores, extracts, and processes mineral resources like iron ore, aluminum, copper, and diamonds across the globe.
+"
+JD,"JD.com, Inc.",Consumer Cyclical,$47.6B,"JD.com is a leading supply chain-based technology and service provider and one of the largest online retailers in China, offering a wide array of products and services through its e-commerce platform and logistics network.
+"
+TSLA,"Tesla, Inc.",Consumer Cyclical,$1026.9B,"Tesla, Inc. focuses on electric vehicles, energy storage, and solar products, selling directly to consumers and aiming for a sustainable energy ecosystem.
+"
+AVGO,Broadcom Inc.,Technology,$1257.0B,"Broadcom Inc. designs, develops, and supplies a wide range of semiconductor and infrastructure software solutions, serving diverse markets including data centers, networking, and wireless communication.
+"
+TLT,iShares 20+ Year Treasury Bond ETF,N/A,$9.6B,"The iShares 20+ Year Treasury Bond ETF (TLT) seeks to track the investment results of an index composed of U.S. Treasury bonds with remaining maturities greater than twenty years.
+"
+IEF,iShares 7-10 Year Treasury Bond ETF,N/A,$13.9B,"The iShares 7-10 Year Treasury Bond ETF (IEF) seeks to track the investment results of an index composed of U.S. Treasury bonds with remaining maturities between seven and ten years.
+"
+DAL,"Delta Air Lines, Inc.",Industrials,$32.2B,"Delta Air Lines is a major global airline, headquartered in Atlanta, providing passenger and cargo air transportation services to over 325 destinations in 52 countries.
+"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+PEP,"PepsiCo, Inc.",Consumer Defensive,$178.6B,"PepsiCo, Inc. is a global food and beverage company that manufactures, markets, and distributes a wide variety of products, including soft drinks, snacks, and convenience foods, with brands like Pepsi, Lay's, and Gatorade.
+"
+DEO,Diageo plc,Consumer Defensive,$55.6B,"Diageo PLC is a British multinational alcoholic beverage company that produces, distributes, and markets a wide range of spirits and beers, including Johnnie Walker, Smirnoff, and Guinness.
+"
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,$87.4B,"Mondelez International is a global snack food company that manufactures and sells various products, including chocolate, biscuits, baked snacks, candy, and beverages.
+"
+BF-B,Brown-Forman Corporation,Consumer Defensive,$12.5B,"Brown-Forman Corporation manufactures, bottles, imports, exports, and markets a range of alcoholic beverages, including whiskies, tequila, vodka, and wine, with brands like Jack Daniel's and Woodford Reserve.
+"
